@@ -34,8 +34,16 @@ Two journal components:
 - There will likely be multiple check-ins throughout the day tied to the journal too, working hand-in-hand with the time-management/block system above.
 
 ### Open questions / not yet decided
-- Whether the journal and the time-management system end up as one integrated product or stay separate. Current lean: separate, for now, mostly for sequencing/business reasons (need other products finished and for sale first).
 - Exact task lists inside each block.
 - Exact ordering logic / rules for how blocks transition into each other.
 - What structure governs unscheduled/non-block time.
 - Full prompt set for the evening journal.
+
+### Build order / product roadmap
+Two separate products to start, built one at a time:
+1. **Time Management System** — build this first.
+2. **Journal** — build second.
+
+While building, expect discussion of both to overlap/interleave in conversation — but they stay two distinct products for now, not merged.
+
+Down the line, likely (not decided) that they get joined together into something bigger — either the two combined, or combined plus something else added in.
