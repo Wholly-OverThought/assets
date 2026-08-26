@@ -39,6 +39,33 @@ Two journal components:
 - What structure governs unscheduled/non-block time.
 - Full prompt set for the evening journal.
 
+## 2026-08-26
+
+### Block examples (concrete)
+- **Hygiene block**: shower, shave, brush teeth.
+- **Body block**: stretch, shoulder PT, lift weights.
+- Pattern: each block is a named category, made up of a handful of small, concrete tasks.
+
+### Why blocks have to be movable, not static
+Start each day with an ideal time and order for the blocks. But most days something abnormal happens — have to wait to do one, so another gets moved. If the blocks were static/fixed in place, that disruption would be discouraging very fast. Because they're movable, the day can get reshuffled and the person still accomplishes the blocks and doesn't feel like a failure just because the original order didn't hold. The movability is *the* mechanism that protects against the all-or-nothing/discouragement trap.
+
+### Check-in cadence (refined)
+Two distinct check-in layers, both running through the day:
+- **Hourly prayer / meditation check-ins.**
+- **15–30 min mindfulness alarms** (separate from the hourly prayer/meditation — a tighter-interval nudge).
+
+### Core design philosophy
+"The contents of the boxes is critical." The system works by **intentionally increasing successes by breaking things down into micro steps.** This is the design principle behind why tasks inside a block are small and concrete (shower, shave, brush teeth — not "do hygiene").
+
+**Origin**: this idea came out of a period in prison — needed ways to pass time, so started building small, structured routines to get through the day. Called them "micro routines" at the time. That's the direct root of the block/micro-step approach.
+
+### Journal structure (refined)
+- **AM entry**: forward-looking identity prompting (journaling the day as already successful — future-identity work) plus check-ins.
+- **PM entry**: prompts focused on processing (the day that happened).
+
+### Open design question: how do "movable blocks" work as a physical/printed product?
+Raised by the user, not yet decided: the ideal mental model is something like a whiteboard with magnets, or a drag-and-drop app — physically/visibly rearranging block pieces. Not yet resolved how to translate that into a printable PDF product, since PDFs are static by nature.
+
 ### Build order / product roadmap
 Two separate products to start, built one at a time:
 1. **Time Management System** — build this first.
