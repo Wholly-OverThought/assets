@@ -66,6 +66,10 @@ Two distinct check-in layers, both running through the day:
 ### Open design question: how do "movable blocks" work as a physical/printed product?
 Raised by the user, not yet decided: the ideal mental model is something like a whiteboard with magnets, or a drag-and-drop app — physically/visibly rearranging block pieces. Not yet resolved how to translate that into a printable PDF product, since PDFs are static by nature.
 
+**Constraint**: whatever the mechanism, it can't require cutting out pieces or writing on laminate — not realistically sellable as a plain print product. Needs to work as ordinary paper.
+
+Working direction: a once-printed "block menu" reference page (all blocks + their tasks) plus a daily/weekly schedule page with blank numbered slots — the person writes today's block order into the slots in pen. Reordering during the day = crossing out/rewriting, not physically relocating a piece. Not yet fully decided, but this is the current default approach.
+
 ### Build order / product roadmap
 Two separate products to start, built one at a time:
 1. **Time Management System** — build this first.
