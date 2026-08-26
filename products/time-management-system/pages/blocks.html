@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@import url("_shared.css");
+</style>
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: 6px;
+  flex: 1;
+}
+.card {
+  border: 1pt solid #1a1a1a;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+}
+.card.example { border-style: solid; }
+.card.blank { border-style: dashed; border-color: #9a9a9a; }
+.card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 6px;
+  border-bottom: 0.75pt solid #d8d8d8;
+  padding-bottom: 5px;
+}
+.card-title {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #16161a;
+}
+.card-title input.blank-line {
+  border: none;
+  border-bottom: 0.75pt dotted #9a9a9a;
+}
+.card-tag {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7.5pt;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #9a9a9a;
+}
+.blank-slot {
+  border-bottom: 0.75pt dotted #b5b5b5;
+  height: 15px;
+  margin-bottom: 7px;
+  margin-left: 17px;
+}
+.card.blank .card-title-line {
+  border-bottom: 0.75pt dotted #9a9a9a;
+  height: 14px;
+  width: 60%;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="eyebrow">Time Management System &middot; Draft</div>
+  <h1 class="title">Your Blocks</h1>
+  <p class="subtitle">Edit freely. The tasks inside the box matter more than the label on it.</p>
+  <hr class="rule">
+
+  <div class="grid">
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Hygiene</span>
+      </div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Shower</li>
+        <li><span class="checkbox"></span>Shave</li>
+        <li><span class="checkbox"></span>Brush teeth</li>
+      </ul>
+      <div class="blank-slot"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Body</span>
+      </div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Stretch</li>
+        <li><span class="checkbox"></span>Shoulder PT</li>
+        <li><span class="checkbox"></span>Lift weights</li>
+      </ul>
+      <div class="blank-slot"></div>
+    </div>
+
+    <div class="card example">
+      <div class="card-head">
+        <span class="card-title">Productivity</span>
+        <span class="card-tag">Example &mdash; edit me</span>
+      </div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Clear inbox to zero</li>
+        <li><span class="checkbox"></span>Top 1 priority task</li>
+        <li><span class="checkbox"></span>Tidy workspace</li>
+      </ul>
+      <div class="blank-slot"></div>
+    </div>
+
+    <div class="card example">
+      <div class="card-head">
+        <span class="card-title">Relationships</span>
+        <span class="card-tag">Example &mdash; edit me</span>
+      </div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>One meaningful text/call</li>
+        <li><span class="checkbox"></span>Ask, don't just answer</li>
+        <li><span class="checkbox"></span>Say thank you, specifically</li>
+      </ul>
+      <div class="blank-slot"></div>
+    </div>
+
+    <div class="card blank">
+      <div class="card-head">
+        <div class="card-title-line"></div>
+        <span class="card-tag">Your block</span>
+      </div>
+      <div class="blank-slot" style="margin-top:6px;"></div>
+      <div class="blank-slot"></div>
+      <div class="blank-slot"></div>
+    </div>
+
+    <div class="card blank">
+      <div class="card-head">
+        <div class="card-title-line"></div>
+        <span class="card-tag">Your block</span>
+      </div>
+      <div class="blank-slot" style="margin-top:6px;"></div>
+      <div class="blank-slot"></div>
+      <div class="blank-slot"></div>
+    </div>
+
+  </div>
+
+  <div class="quote-block">
+    <p class="quote-text">&ldquo;The box is small on purpose. Small enough to actually finish.&rdquo;</p>
+    <p class="quote-attr">On Micro Routines</p>
+  </div>
+
+  <div class="footer-row">
+    <span>TIME MANAGEMENT SYSTEM</span>
+    <span>PAGE 2 &middot; BLOCKS</span>
+  </div>
+
+</div>
+</body>
+</html>
