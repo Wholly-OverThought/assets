@@ -70,6 +70,17 @@ Raised by the user, not yet decided: the ideal mental model is something like a 
 
 Working direction: a once-printed "block menu" reference page (all blocks + their tasks) plus a daily/weekly schedule page with blank numbered slots — the person writes today's block order into the slots in pen. Reordering during the day = crossing out/rewriting, not physically relocating a piece. Not yet fully decided, but this is the current default approach.
 
+### Page list (Time Management System document set)
+Multiple distinct pages, not one worksheet:
+1. **Instructions page** — how to use the whole system.
+2. **Layout/overview page** — shows how all the other pages relate to each other (the big picture / map of the system).
+3. **Blocks page** — the block menu/reference (block names + their tasks).
+4. **Check-in pages** — AM, PM, and hourly; some of these are simple checkmark-style (not full write-in).
+5. **Organize-the-blocks page** — where the day's block order gets set/rearranged; possibly the same physical page as the check-in page rather than a separate one (not decided).
+6. **Quotes** — important, recurring content throughout the product. On-brand, inspirational, but specifically: clever, truth, paradox, "thinker" tone — not generic motivational-poster style.
+
+More pages likely to get added as this develops.
+
 ### Build order / product roadmap
 Two separate products to start, built one at a time:
 1. **Time Management System** — build this first.
