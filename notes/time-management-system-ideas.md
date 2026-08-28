@@ -70,6 +70,9 @@ Raised by the user, not yet decided: the ideal mental model is something like a 
 
 Working direction: a once-printed "block menu" reference page (all blocks + their tasks) plus a daily/weekly schedule page with blank numbered slots — the person writes today's block order into the slots in pen. Reordering during the day = crossing out/rewriting, not physically relocating a piece. Not yet fully decided, but this is the current default approach.
 
+### New block idea: "Set Up Tomorrow"
+Idea, not finalized: a block for getting things ready for the next day — laying out tomorrow's blocks, getting things physically ready (clothes, bag, whatever), etc. Would slot in as an evening/end-of-day block alongside Hygiene, Body, Productivity, Relationships.
+
 ### Page list (Time Management System document set)
 Multiple distinct pages, not one worksheet:
 1. **Instructions page** — how to use the whole system.
