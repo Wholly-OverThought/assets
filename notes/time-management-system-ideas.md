@@ -87,6 +87,12 @@ Important, not yet designed: a version of the system (at minimum the Body block,
 ### Accessibility variant — first draft built
 Built as `products/time-management-system/pages/block-body-adaptive.html` (drop-in replacement for the standard Body block). Design approach: **tiered by capacity, not fixed by calendar.** Three tiers (Flare/low-capacity, Moderate, Higher-capacity) — the person picks whichever tier matches their body that day, and completing any tier counts as the block being done. This extends the same anti-discouragement principle already used for movable blocks (reordering protects against schedule disruption) to apply to *intensity* instead of *time* — protects against the boom/bust cycle common in chronic pain (pushing hard on a good day, crashing after). Includes a "Pacing, Not Pushing" callout: stop at comfortable effort not pain onset, and explicit permission that choosing the lowest tier is not falling behind. Not yet reviewed by the user.
 
+### Relationships block(s) — reworked
+Instead of one generic "Relationships" block, break it into: a separate block for each close family member (and/or gf/bf/spouse — i.e. one block per specific person who matters most), plus one catch-all block for everybody else (general reach-out tasks — post on social media, check in with extended contacts, etc.). Replaces the single generic Relationships block from the earlier example.
+
+### New block idea: "Power Hour"
+A block built around a running to-do list of all non-recurring tasks you want to complete (not the repeating daily stuff — the one-off list). During the hour, pick 3 from the list to work on. If there's extra time or energy left, do more — 1 more, 2 more, keep going if it's there. Explicitly: "no rules, only guidelines" — the 3-item pick is a starting guideline, not a hard cap or requirement.
+
 ### New block idea: "Set Up Tomorrow"
 Idea, not finalized: a block for getting things ready for the next day — laying out tomorrow's blocks, getting things physically ready (clothes, bag, whatever), etc. Would slot in as an evening/end-of-day block alongside Hygiene, Body, Productivity, Relationships.
 
