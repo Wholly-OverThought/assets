@@ -84,6 +84,12 @@ Want a Christian edition of each variation of the product (default/standard, ada
 ### Accessibility variant needed: chronic pain / limited function
 Important, not yet designed: a version of the system (at minimum the Body block, possibly broader) for people with chronic pain, debilitating pain, or who can't exercise normally / can't function fully. The standard "stretch, PT, lift weights, jog, situps" task set doesn't work for this audience — needs its own adapted task set and framing, not just "do less of the same things."
 
+### Accessibility variant — not just one swapped block, a full edition
+User's read after seeing the adaptive Body block draft: good direction, but dropping just that one block into the otherwise-standard pack and selling it as "the chronic pain version" isn't enough — it needs to be more thoroughly reworked. Two concrete pieces identified:
+- **Hygiene needs the same tiered treatment as Body.** For someone chronically ill/disabled, tasks like shower/brush teeth aren't warm-up tasks — they can be the entire day's accomplishment. Needs its own capacity-tiered version (Hygiene-Adaptive), same tier structure as Body-Adaptive.
+- **"Doctors & Diagnoses" block replaces Work/School.** For this audience, the structural equivalent of a work/school block is managing appointments, symptom tracking, medication/treatment plans, insurance and paperwork.
+This confirms the Chronic Pain / Limited-Function edition is a genuinely separate, reworked pack (multiple adapted blocks), not a single insert page added to the standard pack.
+
 ### Accessibility variant — first draft built
 Built as `products/time-management-system/pages/block-body-adaptive.html` (drop-in replacement for the standard Body block). Design approach: **tiered by capacity, not fixed by calendar.** Three tiers (Flare/low-capacity, Moderate, Higher-capacity) — the person picks whichever tier matches their body that day, and completing any tier counts as the block being done. This extends the same anti-discouragement principle already used for movable blocks (reordering protects against schedule disruption) to apply to *intensity* instead of *time* — protects against the boom/bust cycle common in chronic pain (pushing hard on a good day, crashing after). Includes a "Pacing, Not Pushing" callout: stop at comfortable effort not pain onset, and explicit permission that choosing the lowest tier is not falling behind. Not yet reviewed by the user.
 
