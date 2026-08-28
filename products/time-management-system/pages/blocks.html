@@ -9,37 +9,32 @@
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 14px;
+  gap: 12px;
   margin-top: 6px;
   flex: 1;
 }
 .card {
   border: 1pt solid #1a1a1a;
-  padding: 12px 14px;
+  padding: 11px 13px;
   display: flex;
   flex-direction: column;
 }
-.card.example { border-style: solid; }
 .card.blank { border-style: dashed; border-color: #9a9a9a; }
 .card-head {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  margin-bottom: 6px;
+  margin-bottom: 5px;
   border-bottom: 0.75pt solid #d8d8d8;
-  padding-bottom: 5px;
+  padding-bottom: 4px;
 }
 .card-title {
   font-family: "Helvetica Neue", Arial, sans-serif;
-  font-size: 11pt;
+  font-size: 10.5pt;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: #16161a;
-}
-.card-title input.blank-line {
-  border: none;
-  border-bottom: 0.75pt dotted #9a9a9a;
 }
 .card-tag {
   font-family: "Helvetica Neue", Arial, sans-serif;
@@ -48,16 +43,24 @@
   text-transform: uppercase;
   color: #9a9a9a;
 }
+ul.task-list li { font-size: 9.7pt; margin-bottom: 4px; }
 .blank-slot {
   border-bottom: 0.75pt dotted #b5b5b5;
-  height: 15px;
-  margin-bottom: 7px;
+  height: 13px;
+  margin-bottom: 5px;
   margin-left: 17px;
 }
 .card.blank .card-title-line {
   border-bottom: 0.75pt dotted #9a9a9a;
-  height: 14px;
-  width: 60%;
+  height: 13px;
+  width: 55%;
+}
+.note {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8pt;
+  font-style: italic;
+  color: #8a8a8a;
+  margin-top: 4px;
 }
 </style>
 </head>
@@ -72,9 +75,7 @@
   <div class="grid">
 
     <div class="card">
-      <div class="card-head">
-        <span class="card-title">Hygiene</span>
-      </div>
+      <div class="card-head"><span class="card-title">Hygiene</span></div>
       <ul class="task-list">
         <li><span class="checkbox"></span>Shower</li>
         <li><span class="checkbox"></span>Shave</li>
@@ -84,41 +85,50 @@
     </div>
 
     <div class="card">
-      <div class="card-head">
-        <span class="card-title">Body</span>
-      </div>
+      <div class="card-head"><span class="card-title">Body</span></div>
       <ul class="task-list">
         <li><span class="checkbox"></span>Stretch</li>
         <li><span class="checkbox"></span>Shoulder PT</li>
         <li><span class="checkbox"></span>Lift weights</li>
       </ul>
       <div class="blank-slot"></div>
+      <div class="note">See Body &mdash; Adaptive insert for a chronic pain / limited-capacity version.</div>
     </div>
 
-    <div class="card example">
+    <div class="card">
       <div class="card-head">
-        <span class="card-title">Productivity</span>
-        <span class="card-tag">Example &mdash; edit me</span>
+        <span class="card-title">Power Hour</span>
+        <span class="card-tag">No rules, only guidelines</span>
       </div>
       <ul class="task-list">
-        <li><span class="checkbox"></span>Clear inbox to zero</li>
-        <li><span class="checkbox"></span>Top 1 priority task</li>
-        <li><span class="checkbox"></span>Tidy workspace</li>
+        <li><span class="checkbox"></span>Pick 3 from your running to-do list</li>
+        <li><span class="checkbox"></span>Extra time/energy? Pick 1 more</li>
+        <li><span class="checkbox"></span>Still going? Keep pulling from the list</li>
+      </ul>
+      <div class="note">Running list lives on the Daily Organizer page &mdash; one-off tasks only, not daily recurring ones.</div>
+    </div>
+
+    <div class="card">
+      <div class="card-head"><span class="card-title">Set Up Tomorrow</span></div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Lay out clothes</li>
+        <li><span class="checkbox"></span>Pack bag / prep what you need</li>
+        <li><span class="checkbox"></span>Sketch tomorrow's block order</li>
       </ul>
       <div class="blank-slot"></div>
     </div>
 
-    <div class="card example">
+    <div class="card">
       <div class="card-head">
-        <span class="card-title">Relationships</span>
-        <span class="card-tag">Example &mdash; edit me</span>
+        <span class="card-title">Relationships &mdash; ____________</span>
+        <span class="card-tag">Duplicate per person</span>
       </div>
       <ul class="task-list">
-        <li><span class="checkbox"></span>One meaningful text/call</li>
+        <li><span class="checkbox"></span>One meaningful text or call</li>
         <li><span class="checkbox"></span>Ask, don't just answer</li>
         <li><span class="checkbox"></span>Say thank you, specifically</li>
       </ul>
-      <div class="blank-slot"></div>
+      <div class="note">Make one of these per close person (spouse, partner, kids...), plus one "Everyone Else" version for wider check-ins &mdash; texts, calls, social posts.</div>
     </div>
 
     <div class="card blank">
@@ -126,17 +136,7 @@
         <div class="card-title-line"></div>
         <span class="card-tag">Your block</span>
       </div>
-      <div class="blank-slot" style="margin-top:6px;"></div>
-      <div class="blank-slot"></div>
-      <div class="blank-slot"></div>
-    </div>
-
-    <div class="card blank">
-      <div class="card-head">
-        <div class="card-title-line"></div>
-        <span class="card-tag">Your block</span>
-      </div>
-      <div class="blank-slot" style="margin-top:6px;"></div>
+      <div class="blank-slot" style="margin-top:5px;"></div>
       <div class="blank-slot"></div>
       <div class="blank-slot"></div>
     </div>
@@ -150,7 +150,7 @@
 
   <div class="footer-row">
     <span>TIME MANAGEMENT SYSTEM</span>
-    <span>PAGE 2 &middot; BLOCKS</span>
+    <span>PAGE 3 &middot; BLOCKS</span>
   </div>
 
 </div>

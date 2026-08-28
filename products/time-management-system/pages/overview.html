@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@import url("_shared.css");
+</style>
+<style>
+.map {
+  margin-top: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.row { display: flex; align-items: center; }
+.node {
+  border: 1.5pt solid #1a1a1a;
+  padding: 14px 16px;
+  flex: 1;
+}
+.node .freq {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7.5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #9a9a9a;
+  margin-bottom: 3px;
+  display: block;
+}
+.node .ntitle {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+  color: #16161a;
+  margin-bottom: 4px;
+}
+.node .ndesc {
+  font-family: "Georgia", serif;
+  font-size: 9.5pt;
+  color: #333;
+  line-height: 1.4;
+  margin: 0;
+}
+.arrow-down {
+  text-align: center;
+  font-size: 16pt;
+  color: #1a1a1a;
+  margin: 4px 0;
+  line-height: 1;
+}
+.side-note {
+  border-left: 3pt solid #1a1a1a;
+  padding-left: 10px;
+  margin-left: 24px;
+  margin-top: -2px;
+  margin-bottom: 2px;
+}
+.side-note p {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8.5pt;
+  color: #4a4a4a;
+  margin: 2px 0;
+  line-height: 1.4;
+}
+.loop-note {
+  text-align: center;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8.5pt;
+  color: #6b6b6b;
+  font-style: italic;
+  margin-top: 6px;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="eyebrow">Time Management System &middot; Draft</div>
+  <h1 class="title">How the Pages Fit Together</h1>
+  <p class="subtitle">One system, four pages. Two you set up once. Two you use every day.</p>
+  <hr class="rule">
+
+  <div class="map">
+
+    <div class="row">
+      <div class="node">
+        <span class="freq">Read once</span>
+        <div class="ntitle">1 &middot; Instructions</div>
+        <p class="ndesc">How the whole system works, start to finish.</p>
+      </div>
+    </div>
+    <div class="arrow-down">&#8595;</div>
+
+    <div class="row">
+      <div class="node">
+        <span class="freq">Set up once, revisit anytime</span>
+        <div class="ntitle">2 &middot; Blocks</div>
+        <p class="ndesc">Define your task groups: Hygiene, Body, Power Hour, Relationships, and whatever else you build. This is your library &mdash; you'll pull from it every day without rewriting it.</p>
+      </div>
+    </div>
+    <div class="arrow-down">&#8595;</div>
+
+    <div class="row">
+      <div class="node">
+        <span class="freq">Every day</span>
+        <div class="ntitle">3 &middot; Daily Organizer</div>
+        <p class="ndesc">Pull Blocks from your library into today's order. Track hourly prayer/meditation and 15&ndash;30 min mindfulness check-ins as the day runs. Reshuffle Blocks here when life interrupts.</p>
+      </div>
+    </div>
+    <div class="arrow-down">&#8595;</div>
+
+    <div class="row">
+      <div class="node">
+        <span class="freq">Morning &amp; evening</span>
+        <div class="ntitle">4 &middot; Check-In</div>
+        <p class="ndesc">Short AM prompt to open the day, short PM prompt to close it. The quick version &mdash; the full guided journal is a separate companion product.</p>
+      </div>
+    </div>
+
+    <div class="loop-note">Pages 3 &amp; 4 repeat daily. Pages 1 &amp; 2 stay put behind them.</div>
+
+  </div>
+
+  <div class="quote-block">
+    <p class="quote-text">&ldquo;A system is just a decision you don't have to make twice.&rdquo;</p>
+    <p class="quote-attr">On Structure</p>
+  </div>
+
+  <div class="footer-row">
+    <span>TIME MANAGEMENT SYSTEM</span>
+    <span>PAGE 2 &middot; OVERVIEW</span>
+  </div>
+
+</div>
+</body>
+</html>

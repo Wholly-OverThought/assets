@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@import url("_shared.css");
+</style>
+<style>
+.datebar {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9pt;
+  color: #4a4a4a;
+  margin-bottom: 4px;
+}
+.datebar .fill {
+  border-bottom: 0.75pt dotted #9a9a9a;
+  display: inline-block;
+  width: 140px;
+  margin-left: 6px;
+}
+.order-list {
+  margin-top: 6px;
+}
+.order-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.order-num {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1.2pt solid #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9.5pt;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+.order-line {
+  flex: 1;
+  border-bottom: 0.9pt solid #b5b5b5;
+  height: 20px;
+}
+.reshuffle-head {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8pt;
+  font-style: italic;
+  color: #8a8a8a;
+  margin: 2px 0 6px 32px;
+}
+.two-col { display: flex; gap: 20px; margin-top: 4px; }
+.two-col .col { flex: 1; }
+.hour-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+.hour-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1.2pt solid #1a1a1a;
+}
+.mind-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 5px;
+  margin-top: 6px;
+}
+.mind-box {
+  width: 14px;
+  height: 14px;
+  border: 1.1pt solid #1a1a1a;
+}
+.power-lines .blank-line {
+  border-bottom: 0.75pt dotted #b5b5b5;
+  height: 16px;
+  margin-bottom: 5px;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="eyebrow">Time Management System &middot; Draft</div>
+  <h1 class="title">Daily Organizer</h1>
+  <p class="subtitle">Written in pencil for a reason. A moved Block is not a missed Block.</p>
+  <div class="datebar">Date: <span class="fill"></span> &nbsp;&nbsp; Day starts: <span class="fill"></span></div>
+  <hr class="rule">
+
+  <h2 class="section"><span class="num">1</span>Today's Block Order</h2>
+  <div class="order-list">
+    <div class="order-row"><div class="order-num">1</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">2</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">3</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">4</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">5</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">6</div><div class="order-line"></div></div>
+  </div>
+  <p class="reshuffle-head">Interrupted? Don't erase the day &mdash; add or re-slot below.</p>
+  <div class="order-list">
+    <div class="order-row"><div class="order-num">+</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">+</div><div class="order-line"></div></div>
+  </div>
+
+  <h2 class="section"><span class="num">2</span>Check-Ins</h2>
+  <div class="two-col">
+    <div class="col">
+      <p class="mini-head" style="font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5pt;font-weight:700;margin:0;">Hourly &mdash; Prayer / Meditation</p>
+      <div class="hour-row">
+        <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+        <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+        <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+        <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+        <div class="hour-circle"></div><div class="hour-circle"></div>
+      </div>
+    </div>
+    <div class="col">
+      <p class="mini-head" style="font-family:'Helvetica Neue',Arial,sans-serif;font-size:9.5pt;font-weight:700;margin:0;">Every 15&ndash;30 Min &mdash; Mindfulness</p>
+      <div class="mind-grid">
+        <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+        <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+        <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+        <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="section"><span class="num">3</span>Power Hour &mdash; Running List</h2>
+  <p class="body-text" style="margin-bottom:6px;">One-off tasks only &mdash; not the daily recurring stuff. Pick 3 during your Power Hour block. More if you've got it.</p>
+  <div class="power-lines">
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+  </div>
+
+  <div class="footer-row">
+    <span>TIME MANAGEMENT SYSTEM</span>
+    <span>PAGE 4 &middot; DAILY ORGANIZER</span>
+  </div>
+
+</div>
+</body>
+</html>
