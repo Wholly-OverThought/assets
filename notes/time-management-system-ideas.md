@@ -78,8 +78,14 @@ The system should include explicit instructions for *how to define your blocks* 
 
 Body block task examples, expanded list: exercise, stretch, PT, jog, situps (these are options/examples to pull from, not all required).
 
+### Edition strategy: Christian version of every variation
+Want a Christian edition of each variation of the product (default/standard, adaptive/chronic-pain, etc.) — biblical themes and verses woven in (e.g. the quotes sections become verses). Important constraint: this must be a genuine *option*, not the default framing — don't want non-Christian users to feel like the product is only for Christians. So: a neutral/secular default edition, plus a parallel Christian edition, for each variation of the system. Not yet built for any page; apply once each page's default content is settled, since building the themed version before the base content is finalized would mean redoing it.
+
 ### Accessibility variant needed: chronic pain / limited function
 Important, not yet designed: a version of the system (at minimum the Body block, possibly broader) for people with chronic pain, debilitating pain, or who can't exercise normally / can't function fully. The standard "stretch, PT, lift weights, jog, situps" task set doesn't work for this audience — needs its own adapted task set and framing, not just "do less of the same things."
+
+### Accessibility variant — first draft built
+Built as `products/time-management-system/pages/block-body-adaptive.html` (drop-in replacement for the standard Body block). Design approach: **tiered by capacity, not fixed by calendar.** Three tiers (Flare/low-capacity, Moderate, Higher-capacity) — the person picks whichever tier matches their body that day, and completing any tier counts as the block being done. This extends the same anti-discouragement principle already used for movable blocks (reordering protects against schedule disruption) to apply to *intensity* instead of *time* — protects against the boom/bust cycle common in chronic pain (pushing hard on a good day, crashing after). Includes a "Pacing, Not Pushing" callout: stop at comfortable effort not pain onset, and explicit permission that choosing the lowest tier is not falling behind. Not yet reviewed by the user.
 
 ### New block idea: "Set Up Tomorrow"
 Idea, not finalized: a block for getting things ready for the next day — laying out tomorrow's blocks, getting things physically ready (clothes, bag, whatever), etc. Would slot in as an evening/end-of-day block alongside Hygiene, Body, Productivity, Relationships.
