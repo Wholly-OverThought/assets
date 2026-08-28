@@ -70,6 +70,17 @@ Raised by the user, not yet decided: the ideal mental model is something like a 
 
 Working direction: a once-printed "block menu" reference page (all blocks + their tasks) plus a daily/weekly schedule page with blank numbered slots — the person writes today's block order into the slots in pen. Reordering during the day = crossing out/rewriting, not physically relocating a piece. Not yet fully decided, but this is the current default approach.
 
+### Print format variants
+Some pages will be printed as a folded piece of paper (single-sided, folds down into a smaller booklet/card format). Also want a second version of that same page that's printed both sides and still foldable. Not yet decided which specific pages get which treatment — noting the requirement so page layouts get designed with folding in mind (content placement can't assume a flat single surface).
+
+### Blocks must be defined beforehand — needs its own instructions
+The system should include explicit instructions for *how to define your blocks* before you start using the daily pages — this is a setup step, not just "here's a blank template." Likely lives on/near the Blocks page or as part of the Instructions page.
+
+Body block task examples, expanded list: exercise, stretch, PT, jog, situps (these are options/examples to pull from, not all required).
+
+### Accessibility variant needed: chronic pain / limited function
+Important, not yet designed: a version of the system (at minimum the Body block, possibly broader) for people with chronic pain, debilitating pain, or who can't exercise normally / can't function fully. The standard "stretch, PT, lift weights, jog, situps" task set doesn't work for this audience — needs its own adapted task set and framing, not just "do less of the same things."
+
 ### New block idea: "Set Up Tomorrow"
 Idea, not finalized: a block for getting things ready for the next day — laying out tomorrow's blocks, getting things physically ready (clothes, bag, whatever), etc. Would slot in as an evening/end-of-day block alongside Hygiene, Body, Productivity, Relationships.
 
