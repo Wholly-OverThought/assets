@@ -84,6 +84,9 @@ Want a Christian edition of each variation of the product (default/standard, ada
 ### Accessibility variant needed: chronic pain / limited function
 Important, not yet designed: a version of the system (at minimum the Body block, possibly broader) for people with chronic pain, debilitating pain, or who can't exercise normally / can't function fully. The standard "stretch, PT, lift weights, jog, situps" task set doesn't work for this audience — needs its own adapted task set and framing, not just "do less of the same things."
 
+### Accessibility variant — v1 complete
+Built the full 8-page Adaptive Edition pack (`products/time-management-system/pdf/time-management-system-adaptive-v1.pdf`): Instructions (adaptive-specific), Overview, Blocks summary, Hygiene-Adaptive (tiered), Body-Adaptive (tiered), Doctors & Diagnoses (tiered, replaces Work/School), Daily Organizer, Check-In. Two products now have finished v1s.
+
 ### Accessibility variant — not just one swapped block, a full edition
 User's read after seeing the adaptive Body block draft: good direction, but dropping just that one block into the otherwise-standard pack and selling it as "the chronic pain version" isn't enough — it needs to be more thoroughly reworked. Two concrete pieces identified:
 - **Hygiene needs the same tiered treatment as Body.** For someone chronically ill/disabled, tasks like shower/brush teeth aren't warm-up tasks — they can be the entire day's accomplishment. Needs its own capacity-tiered version (Hygiene-Adaptive), same tier structure as Body-Adaptive.
