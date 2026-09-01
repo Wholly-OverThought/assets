@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@import url("_shared.css");
+</style>
+<style>
+.tier {
+  border: 1pt solid #1a1a1a;
+  margin-bottom: 12px;
+  display: flex;
+}
+.tier-label {
+  width: 130px;
+  flex-shrink: 0;
+  background: #1a1a1a;
+  color: #fff;
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.tier-label .tname {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.tier-label .tdesc {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8pt;
+  color: #d5d5d5;
+  margin-top: 3px;
+  line-height: 1.3;
+}
+.tier-body {
+  padding: 10px 14px;
+  flex: 1;
+}
+.tier-body ul.task-list li { margin-bottom: 5px; font-size: 10pt; }
+.pacing {
+  border: 1pt solid #1a1a1a;
+  border-left: 4pt solid #1a1a1a;
+  background: #f7f6f3;
+  padding: 10px 14px;
+  margin-top: 4px;
+}
+.pacing .label {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8.5pt;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 3px;
+}
+.pacing ul {
+  margin: 4px 0 0 0;
+  padding-left: 16px;
+}
+.pacing li {
+  font-family: "Georgia", serif;
+  font-size: 9.5pt;
+  line-height: 1.4;
+  margin-bottom: 3px;
+  color: #262626;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="eyebrow">Time Management System &middot; Adaptive Edition &middot; Draft</div>
+  <h1 class="title">Doctors &amp; Diagnoses</h1>
+  <p class="subtitle">Replaces the Work/School block. Managing a chronic condition is a job &mdash; this is that job's block.</p>
+  <hr class="rule">
+
+  <p class="body-text">
+    Same tiered logic as the other Adaptive blocks. Some days this block is one line. Some days it's a full
+    slate of calls and forms. Both are the block, done.
+  </p>
+
+  <div class="tier">
+    <div class="tier-label">
+      <span class="tname">Tier 1</span>
+      <span class="tdesc">Flare / low-capacity day</span>
+    </div>
+    <div class="tier-body">
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Take medication as scheduled</li>
+        <li><span class="checkbox"></span>Log today's symptoms / pain level</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="tier">
+    <div class="tier-label">
+      <span class="tname">Tier 2</span>
+      <span class="tdesc">Moderate / manageable day</span>
+    </div>
+    <div class="tier-body">
+      <ul class="task-list">
+        <li><span class="checkbox"></span>One small admin task &mdash; message a provider, refill a prescription</li>
+        <li><span class="checkbox"></span>Note a question for your next appointment</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="tier">
+    <div class="tier-label">
+      <span class="tname">Tier 3</span>
+      <span class="tdesc">Higher-capacity day</span>
+    </div>
+    <div class="tier-body">
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Schedule or attend an appointment</li>
+        <li><span class="checkbox"></span>Insurance, billing, or paperwork task</li>
+        <li><span class="checkbox"></span>Organize records / prep for next visit</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="pacing">
+    <span class="label">A Note</span>
+    <ul>
+      <li>Logging a symptom is real work. It counts even when nothing "gets done."</li>
+      <li>Save Tier 3 tasks for days that can actually hold them &mdash; a missed call can wait for one.</li>
+    </ul>
+  </div>
+
+  <div class="quote-block">
+    <p class="quote-text">&ldquo;Managing the illness is the job today. Clock in anyway.&rdquo;</p>
+    <p class="quote-attr">On Chronic Care</p>
+  </div>
+
+  <div class="footer-row">
+    <span>TIME MANAGEMENT SYSTEM &middot; ADAPTIVE EDITION</span>
+    <span>BLOCK INSERT &middot; DOCTORS &amp; DIAGNOSES</span>
+  </div>
+
+</div>
+</body>
+</html>

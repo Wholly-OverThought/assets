@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@import url("_shared.css");
+</style>
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 6px;
+  flex: 1;
+}
+.card {
+  border: 1pt solid #1a1a1a;
+  padding: 11px 13px;
+  display: flex;
+  flex-direction: column;
+}
+.card.blank { border-style: dashed; border-color: #9a9a9a; }
+.card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 5px;
+  border-bottom: 0.75pt solid #d8d8d8;
+  padding-bottom: 4px;
+}
+.card-title {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #16161a;
+}
+.card-tag {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7.5pt;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #9a9a9a;
+}
+ul.task-list li { font-size: 9.7pt; margin-bottom: 4px; }
+.note {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8pt;
+  font-style: italic;
+  color: #8a8a8a;
+  margin-top: 4px;
+}
+.blank-slot {
+  border-bottom: 0.75pt dotted #b5b5b5;
+  height: 13px;
+  margin-bottom: 5px;
+  margin-left: 17px;
+}
+.card.blank .card-title-line {
+  border-bottom: 0.75pt dotted #9a9a9a;
+  height: 13px;
+  width: 55%;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="eyebrow">Time Management System &middot; Adaptive Edition &middot; Draft</div>
+  <h1 class="title">Your Blocks &mdash; Adaptive</h1>
+  <p class="subtitle">Three blocks below are tiered by capacity. Full versions follow on their own pages.</p>
+  <hr class="rule">
+
+  <div class="grid">
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Hygiene</span>
+        <span class="card-tag">Tiered &mdash; see insert</span>
+      </div>
+      <p class="note" style="margin-top:0;">Pick Tier 1, 2, or 3 based on today's capacity. Full task list and pacing notes on the Hygiene &mdash; Adaptive page.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Body</span>
+        <span class="card-tag">Tiered &mdash; see insert</span>
+      </div>
+      <p class="note" style="margin-top:0;">Pick Tier 1, 2, or 3 based on today's capacity. Full task list and pacing notes on the Body &mdash; Adaptive page.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Doctors &amp; Diagnoses</span>
+        <span class="card-tag">Tiered &mdash; see insert</span>
+      </div>
+      <p class="note" style="margin-top:0;">Replaces Work/School. Medication, symptoms, appointments, paperwork &mdash; tiered by capacity. Full version on its own page.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Power Hour</span>
+        <span class="card-tag">No rules, only guidelines</span>
+      </div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>Pick 1&ndash;3 from your running list, sized to today</li>
+        <li><span class="checkbox"></span>More energy? Keep pulling from the list</li>
+      </ul>
+      <div class="note">Running list lives on the Daily Organizer page.</div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">Relationships &mdash; ____________</span>
+        <span class="card-tag">Duplicate per person</span>
+      </div>
+      <ul class="task-list">
+        <li><span class="checkbox"></span>One meaningful text or call</li>
+        <li><span class="checkbox"></span>Even a short one counts</li>
+      </ul>
+    </div>
+
+    <div class="card blank">
+      <div class="card-head">
+        <div class="card-title-line"></div>
+        <span class="card-tag">Your block</span>
+      </div>
+      <div class="blank-slot" style="margin-top:5px;"></div>
+      <div class="blank-slot"></div>
+    </div>
+
+  </div>
+
+  <div class="quote-block">
+    <p class="quote-text">&ldquo;The box is small on purpose. Small enough to actually finish.&rdquo;</p>
+    <p class="quote-attr">On Micro Routines</p>
+  </div>
+
+  <div class="footer-row">
+    <span>TIME MANAGEMENT SYSTEM &middot; ADAPTIVE EDITION</span>
+    <span>PAGE 3 &middot; BLOCKS</span>
+  </div>
+
+</div>
+</body>
+</html>
