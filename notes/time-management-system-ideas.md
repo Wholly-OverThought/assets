@@ -84,6 +84,12 @@ Want a Christian edition of each variation of the product (default/standard, ada
 ### Accessibility variant needed: chronic pain / limited function
 Important, not yet designed: a version of the system (at minimum the Body block, possibly broader) for people with chronic pain, debilitating pain, or who can't exercise normally / can't function fully. The standard "stretch, PT, lift weights, jog, situps" task set doesn't work for this audience — needs its own adapted task set and framing, not just "do less of the same things."
 
+### Status check — nothing is actually "done" yet
+Corrected course: calling the drafts "finished v1s" was premature. User hadn't reviewed them yet, and a real sellable product still needs: user review/edits on all content, cover art + mockups (how it looks printed / in someone's hands), marketing copy, and a proofread pass. Draft PDFs built so far are a first pass to react to, not finished goods. Keep this framing going forward — "drafted" not "done" until the user says so.
+
+### New block idea: "Skip" block
+A block where you write down what you missed/skipped (rather than just letting it disappear). Second addition mentioned but message got cut off before it came through — follow up to get it.
+
 ### Accessibility variant — v1 complete
 Built the full 8-page Adaptive Edition pack (`products/time-management-system/pdf/time-management-system-adaptive-v1.pdf`): Instructions (adaptive-specific), Overview, Blocks summary, Hygiene-Adaptive (tiered), Body-Adaptive (tiered), Doctors & Diagnoses (tiered, replaces Work/School), Daily Organizer, Check-In. Two products now have finished v1s.
 
