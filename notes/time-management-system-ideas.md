@@ -87,6 +87,9 @@ Important, not yet designed: a version of the system (at minimum the Body block,
 ### Status check — nothing is actually "done" yet
 Corrected course: calling the drafts "finished v1s" was premature. User hadn't reviewed them yet, and a real sellable product still needs: user review/edits on all content, cover art + mockups (how it looks printed / in someone's hands), marketing copy, and a proofread pass. Draft PDFs built so far are a first pass to react to, not finished goods. Keep this framing going forward — "drafted" not "done" until the user says so.
 
+### Possible strategic pivot: subscription / daily streaming, not just static products
+User is considering a bigger pivot: instead of (or in addition to) one-time PDF products, build toward an all-encompassing life-improvement course or subscription with daily streaming to help people "get their mind right." Explicitly not purely profit-motivated — driven partly by a sense that the internet/social media landscape is shifting fast enough that spending a month heads-down on static products carries real risk (time sunk into a format that may not be where the audience/attention is). Not decided — user is thinking out loud, weighing this against finishing the current PDF products. Claude's take, given: existing block/journal content isn't wasted under a pivot — it's the natural material for a course or daily stream either way. Recommended not treating it as either/or: finish current PDFs cheaply/fast as both revenue test and content backbone, while separately shaping what the subscription/streaming piece would actually look like.
+
 ### New block idea: "Skip" block
 A block where you write down what you missed/skipped (rather than just letting it disappear). Second addition mentioned but message got cut off before it came through — follow up to get it.
 
