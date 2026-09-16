@@ -1,5 +1,8 @@
 # Time Management System — Idea Log
 
+## Working principle (durable — applies to all future work here)
+User pushback, worth keeping permanently in mind: don't compress spacing or trim content to force pages to fit a specific page count. Let content take the space it needs, even if that means more pages than a previous draft had. Also: nothing is ever "final," including after the system is considered done — tone and copy (jokes, cleverness) are expected to keep improving indefinitely. Don't imply completeness ("final version," locking anything in) in how work is described.
+
 Raw capture of thinking so far. Not a spec yet — just getting everything into one place so it's part of the project's working context. Append new entries below rather than rewriting old ones, so the history of how the thinking evolved stays visible.
 
 ---
@@ -91,6 +94,13 @@ Filled the remaining blank placeholder cards with two new universal blocks: **Ho
 User feedback on the tiered/capacity idea: like it, but don't want it treated as a lesser bolt-on to the "main" product. It should be built with the same care as the standard edition — the two as parallel original releases, not primary + insert. Actioned: Standard pack no longer bundles a Body-Adaptive bonus page (dropped from the merged v1); the Blocks page note now points to the Adaptive Edition as a separate release. Adaptive pack dropped "insert" language throughout (footers now read e.g. "BODY — ADAPTIVE" not "BLOCK INSERT"), picked up the same Skip block and shared Relationships page the Standard pack got, and now stands alone as its own complete 9-page product (Instructions-adaptive, Overview-adaptive, Blocks-adaptive, Relationships [shared], Hygiene-Adaptive, Body-Adaptive, Doctors & Diagnoses, Daily Organizer [shared], Check-In [shared]).
 
 Also noted: user said outright they don't like "the paper blocks" mechanism but we have to start there for now — logged in `life-improvement-pivot-ideas.md` since it's the same tension as the bigger pivot question (static vs. dynamic medium).
+
+### Round 2 review feedback — actioned
+- Relationships page quote replaced (user didn't like the old one) — new one and the retired one both logged in `clever-feet.md`.
+- Started `products/time-management-system/content/clever-feet.md` — running bank of footer one-liners, so these get pulled from a list instead of improvised per-page.
+- Instructions (both editions) gained a "why this works" paragraph (mind vs. brain; grouping aids memory; the real point is finding your own routine through flexibility), elaborated the check-in marking mechanic to be explicit (check/color in the *next* box in sequence, not any box), and added a "Most Important" callout: if you miss something, note it on Skip and let it go — this is a guide, not a rulebook, you will miss things.
+- Added an explicit **"Before Anything Else" callout at the very top of Instructions (both editions)**: everything in the system — Blocks, tiers, check-ins, all of it — is optional. Toolset, not obligation. Mirrored briefly in the Daily Organizer subtitle too.
+- Dropped hardcoded "PAGE N" numbers from every footer (see working principle at top of this file) since Instructions grew past one page and shared pages (Daily Organizer, Check-In, Relationships) sit at different absolute positions in the Standard vs. Adaptive pack.
 
 ### Round 1 review feedback — actioned
 User reviewed the printed v1 PDF and gave two fixes: (1) Relationships shouldn't be one card with a "duplicate per person" instruction — it needed to actually be built out as real named blocks. Fixed: new dedicated `blocks-relationships.html` page with Partner/Spouse, Kids, Family, Everyone Else, plus 2 custom slots; freed slot on the main Blocks page filled with the "Skip" block (write down what you missed, from the earlier idea log). (2) Wanted "an overhead shot of how the pages fit together" — generated a flat-lay/top-down product photo mockup (via Higgsfield nano_banana_2) showing the printed pages spread on a desk, as a marketing asset. Image lives in this session's generation history (proxy network policy blocks downloading the CDN URL into the repo directly — flagged to user to save from the chat if they want it kept). Overview page's in-book diagram was left as-is (already answers "how pages fit together" conceptually); the photo covers the marketing/visual angle.
