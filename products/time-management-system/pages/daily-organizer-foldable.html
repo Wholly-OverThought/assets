@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@page {
+  size: 11in 8.5in;
+  margin: 0;
+}
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 11in;
+  height: 8.5in;
+  font-family: "Georgia", "Iowan Old Style", serif;
+  color: #1a1a1a;
+  background: #ffffff;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.sheet {
+  width: 11in;
+  height: 8.5in;
+  display: flex;
+  position: relative;
+}
+.foldline {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  border-left: 1pt dashed #b5b5b5;
+}
+.fold-tab {
+  position: absolute;
+  left: 50%;
+  top: 4px;
+  transform: translateX(-50%);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #b5b5b5;
+  background: #fff;
+  padding: 0 6px;
+}
+.panel {
+  width: 5.5in;
+  height: 8.5in;
+  padding: 0.4in 0.5in;
+  display: flex;
+  flex-direction: column;
+}
+.eyebrow {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8pt;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #6b6b6b;
+  margin: 0 0 3px 0;
+}
+h1.ptitle {
+  font-family: "Georgia", serif;
+  font-size: 19pt;
+  font-weight: 700;
+  margin: 0 0 2px 0;
+  color: #16161a;
+}
+.psub {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9pt;
+  color: #4a4a4a;
+  font-style: italic;
+  margin: 0 0 10px 0;
+}
+.prule {
+  border: none;
+  border-top: 1.2pt solid #1a1a1a;
+  margin: 6px 0 12px 0;
+}
+.order-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.order-num {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1.1pt solid #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9pt;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+.order-line {
+  flex: 1;
+  border-bottom: 0.9pt solid #b5b5b5;
+  height: 18px;
+}
+.datebar {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8.5pt;
+  color: #4a4a4a;
+  margin-bottom: 8px;
+}
+.datebar .fill {
+  border-bottom: 0.75pt dotted #9a9a9a;
+  display: inline-block;
+  width: 110px;
+  margin-left: 4px;
+}
+.sechead {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #16161a;
+  margin: 4px 0 6px 0;
+}
+.hour-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.hour-circle {
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  border: 1.1pt solid #1a1a1a;
+}
+.mind-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin-bottom: 14px;
+}
+.mind-box {
+  width: 13px;
+  height: 13px;
+  border: 1pt solid #1a1a1a;
+}
+.mini-note {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7.5pt;
+  font-style: italic;
+  color: #8a8a8a;
+  margin: -8px 0 10px 0;
+}
+.foot {
+  margin-top: auto;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7pt;
+  letter-spacing: 0.04em;
+  color: #9a9a9a;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <div class="panel">
+    <div class="eyebrow">Time Management System &middot; Foldable</div>
+    <h1 class="ptitle">Today's Blocks</h1>
+    <p class="psub">Fold along the center line. Carry this, leave the rest at home.</p>
+    <div class="datebar">Date: <span class="fill"></span></div>
+    <hr class="prule">
+
+    <div class="order-row"><div class="order-num">1</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">2</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">3</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">4</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">5</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">6</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">+</div><div class="order-line"></div></div>
+    <div class="order-row"><div class="order-num">+</div><div class="order-line"></div></div>
+
+    <div class="foot">A moved Block is not a missed Block.</div>
+  </div>
+
+  <div class="foldline"></div>
+  <div class="fold-tab">fold</div>
+
+  <div class="panel">
+    <div class="eyebrow">Time Management System &middot; Foldable</div>
+    <h1 class="ptitle">Check-Ins</h1>
+    <p class="psub">Optional, like everything else here.</p>
+    <hr class="prule">
+
+    <div class="sechead">Hourly &mdash; Prayer / Meditation</div>
+    <div class="hour-row">
+      <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+      <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+      <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+      <div class="hour-circle"></div><div class="hour-circle"></div><div class="hour-circle"></div>
+      <div class="hour-circle"></div><div class="hour-circle"></div>
+    </div>
+
+    <div class="sechead">Every 15&ndash;30 Min &mdash; Mindfulness</div>
+    <div class="mind-grid">
+      <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+      <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+      <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
+    </div>
+    <p class="mini-note">Check or color one in, in order, as the day goes.</p>
+
+    <div class="foot">TIME MANAGEMENT SYSTEM &middot; FOLDABLE ORGANIZER</div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -95,6 +95,13 @@ User feedback on the tiered/capacity idea: like it, but don't want it treated as
 
 Also noted: user said outright they don't like "the paper blocks" mechanism but we have to start there for now — logged in `life-improvement-pivot-ideas.md` since it's the same tension as the bigger pivot question (static vs. dynamic medium).
 
+### Round 3 review feedback — actioned
+User was surprised the Blocks page came pre-filled (Hygiene/Body/etc. use the examples they originally gave) and expected a version they fill out themselves from scratch. Clarified: kept the pre-filled starter as-is (it's literally their own examples, "use it exactly as-is" per the original brief) and added a **new, separate `blocks-blank.html`** page — 6 fully blank card frames, no example text at all, dashed borders to visually read as "template," with a line pointing back to the filled Blocks page for people who want a head start instead. Open question for user: keep both, or eventually drop the pre-filled one? Not decided.
+
+Also built the **foldable sheet** that was logged as a requirement early on but never actually built: `daily-organizer-foldable.html` — a landscape (11x8.5in) page with a dashed center fold line, left panel = Block Order (numbered slots), right panel = Check-Ins (hourly circles + mindfulness grid). Folds into its own small card, separate from the main packet, for carrying. Only the single-sided version exists so far — the double-sided foldable variant from the earlier print-format-variants note is still outstanding.
+
+Both new pages added to both packs (Standard now 9 pages, Adaptive now 12), inserted right after their related pages (blank Blocks after the Relationships page, foldable organizer right after the regular Daily Organizer).
+
 ### Round 2 review feedback — actioned
 - Relationships page quote replaced (user didn't like the old one) — new one and the retired one both logged in `clever-feet.md`.
 - Started `products/time-management-system/content/clever-feet.md` — running bank of footer one-liners, so these get pulled from a list instead of improvised per-page.
