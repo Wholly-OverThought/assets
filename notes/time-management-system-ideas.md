@@ -95,6 +95,11 @@ User feedback on the tiered/capacity idea: like it, but don't want it treated as
 
 Also noted: user said outright they don't like "the paper blocks" mechanism but we have to start there for now — logged in `life-improvement-pivot-ideas.md` since it's the same tension as the bigger pivot question (static vs. dynamic medium).
 
+### Round 4 review feedback — actioned
+- Built `blocks-foldable-blank.html`: the foldable-format companion to the blank Blocks page — same landscape/center-fold layout as the Foldable Organizer, 6 blank block card frames across two panels. Explicitly meant to be **printed double-sided with `daily-organizer-foldable.html`** (Organizer + Check-ins on one side, blank Blocks on the other) so folding once gives a complete portable barebones system — the most important parts only. Print instructions noting this are on both foldable pages now.
+- Added 2 more prompts to each half of the Check-In page (AM: relationship to show up for, what a good day looks like; PM: gratitude, one thing to do differently without self-judgment) — pulling from the original journal concept (future-identity, relationships, gratitude) while staying "the quick version."
+- Standard pack now 10 pages, Adaptive now 13.
+
 ### Round 3 review feedback — actioned
 User was surprised the Blocks page came pre-filled (Hygiene/Body/etc. use the examples they originally gave) and expected a version they fill out themselves from scratch. Clarified: kept the pre-filled starter as-is (it's literally their own examples, "use it exactly as-is" per the original brief) and added a **new, separate `blocks-blank.html`** page — 6 fully blank card frames, no example text at all, dashed borders to visually read as "template," with a line pointing back to the filled Blocks page for people who want a head start instead. Open question for user: keep both, or eventually drop the pre-filled one? Not decided.
 

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@page {
+  size: 11in 8.5in;
+  margin: 0;
+}
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 11in;
+  height: 8.5in;
+  font-family: "Georgia", "Iowan Old Style", serif;
+  color: #1a1a1a;
+  background: #ffffff;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.sheet {
+  width: 11in;
+  height: 8.5in;
+  display: flex;
+  position: relative;
+}
+.foldline {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  border-left: 1pt dashed #b5b5b5;
+}
+.fold-tab {
+  position: absolute;
+  left: 50%;
+  top: 4px;
+  transform: translateX(-50%);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #b5b5b5;
+  background: #fff;
+  padding: 0 6px;
+}
+.panel {
+  width: 5.5in;
+  height: 8.5in;
+  padding: 0.4in 0.5in;
+  display: flex;
+  flex-direction: column;
+}
+.eyebrow {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8pt;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #6b6b6b;
+  margin: 0 0 3px 0;
+}
+h1.ptitle {
+  font-family: "Georgia", serif;
+  font-size: 19pt;
+  font-weight: 700;
+  margin: 0 0 2px 0;
+  color: #16161a;
+}
+.psub {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9pt;
+  color: #4a4a4a;
+  font-style: italic;
+  margin: 0 0 10px 0;
+}
+.prule {
+  border: none;
+  border-top: 1.2pt solid #1a1a1a;
+  margin: 6px 0 12px 0;
+}
+.card {
+  border: 1pt dashed #9a9a9a;
+  padding: 9px 11px;
+  margin-bottom: 10px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.card-title-line {
+  border-bottom: 0.9pt dotted #9a9a9a;
+  height: 14px;
+  width: 65%;
+  margin-bottom: 8px;
+}
+.blank-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.blank-checkbox {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border: 1.1pt solid #b5b5b5;
+  margin-right: 7px;
+  flex-shrink: 0;
+}
+.blank-line {
+  flex: 1;
+  border-bottom: 0.75pt dotted #b5b5b5;
+  height: 13px;
+}
+.foot {
+  margin-top: auto;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7pt;
+  letter-spacing: 0.04em;
+  color: #9a9a9a;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <div class="panel">
+    <div class="eyebrow">Time Management System &middot; Foldable</div>
+    <h1 class="ptitle">Your Blocks &mdash; Blank</h1>
+    <p class="psub">No examples. Name it, fill it, make it yours.</p>
+    <hr class="prule">
+
+    <div class="card">
+      <div class="card-title-line"></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+    </div>
+    <div class="card">
+      <div class="card-title-line"></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+    </div>
+    <div class="card">
+      <div class="card-title-line"></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+    </div>
+
+    <div class="foot">A blank box isn't empty. It's an invitation.</div>
+  </div>
+
+  <div class="foldline"></div>
+  <div class="fold-tab">fold</div>
+
+  <div class="panel">
+    <div class="eyebrow">Time Management System &middot; Foldable</div>
+    <h1 class="ptitle">More Blocks</h1>
+    <p class="psub">Fold along the center. Same idea, more room.</p>
+    <hr class="prule">
+
+    <div class="card">
+      <div class="card-title-line"></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+    </div>
+    <div class="card">
+      <div class="card-title-line"></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+    </div>
+    <div class="card">
+      <div class="card-title-line"></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+      <div class="blank-row"><span class="blank-checkbox"></span><div class="blank-line"></div></div>
+    </div>
+
+    <div class="foot">Print double-sided with the Foldable Organizer for the full portable barebones system.</div>
+  </div>
+
+</div>
+</body>
+</html>
