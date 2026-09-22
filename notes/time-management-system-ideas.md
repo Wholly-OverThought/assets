@@ -95,6 +95,9 @@ User feedback on the tiered/capacity idea: like it, but don't want it treated as
 
 Also noted: user said outright they don't like "the paper blocks" mechanism but we have to start there for now — logged in `life-improvement-pivot-ideas.md` since it's the same tension as the bigger pivot question (static vs. dynamic medium).
 
+### Round 5 review feedback — actioned
+User asked for the double-sided foldable pairing again after Round 4 — turned out the instruction existed but was buried in tiny italic footer text, easy to miss entirely. Fixed properly: both foldable pages (`daily-organizer-foldable.html`, `blocks-foldable-blank.html`) now have a bordered "How to Print This" callout right at the top of the front panel, spelling out exactly which two pages to print double-sided and to fold once down the center. Also added a new Step 6 ("Going Portable") to the Instructions page in both editions, so the pairing is documented in the one place someone actually reads start to finish, not just discoverable by stumbling onto the foldable pages themselves.
+
 ### Round 4 review feedback — actioned
 - Built `blocks-foldable-blank.html`: the foldable-format companion to the blank Blocks page — same landscape/center-fold layout as the Foldable Organizer, 6 blank block card frames across two panels. Explicitly meant to be **printed double-sided with `daily-organizer-foldable.html`** (Organizer + Check-ins on one side, blank Blocks on the other) so folding once gives a complete portable barebones system — the most important parts only. Print instructions noting this are on both foldable pages now.
 - Added 2 more prompts to each half of the Check-In page (AM: relationship to show up for, what a good day looks like; PM: gratitude, one thing to do differently without self-judgment) — pulling from the original journal concept (future-identity, relationships, gratitude) while staying "the quick version."
