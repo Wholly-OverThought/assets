@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+@page { size: letter; margin: 0; }
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0;
+  font-family: "Georgia", serif;
+  color: #241207;
+  background: #fff;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.cover {
+  width: 8.5in; height: 11in;
+  background: linear-gradient(180deg, #4a2b16 0%, #2c1710 100%);
+  color: #fff;
+  padding: 1in 0.8in;
+  display: flex;
+  flex-direction: column;
+  page-break-after: always;
+}
+.cover .eyebrow {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 11pt;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #e08a2e;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+.cover h1 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 34pt;
+  font-weight: 800;
+  line-height: 1.15;
+  margin: 0 0 16px 0;
+  border-bottom: 3pt solid #e08a2e;
+  padding-bottom: 16px;
+  display: inline-block;
+}
+.cover .sub {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 15pt;
+  color: #f3d9b8;
+  margin: 8px 0 22px 0;
+  line-height: 1.4;
+}
+.cover .compat {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.5pt;
+  color: #c9a586;
+}
+.cover .spacer { flex: 1; }
+.cover .footerbar {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  color: #2c1710;
+  background: #e08a2e;
+  margin: 0 -0.8in -1in -0.8in;
+  padding: 16px 0.8in;
+  text-align: center;
+}
+
+.page {
+  width: 8.5in; height: 11in;
+  padding: 0.65in 0.75in;
+  display: flex;
+  flex-direction: column;
+  page-break-after: always;
+}
+.page:last-child { page-break-after: auto; }
+.eyebrow2 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9pt;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #b5732a;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+h2.ptitle {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 22pt;
+  font-weight: 800;
+  color: #2c1710;
+  margin: 0 0 4px 0;
+}
+.psub {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.5pt;
+  color: #6b4a30;
+  margin: 0 0 14px 0;
+  font-style: italic;
+}
+.rule { border: none; border-top: 2pt solid #e08a2e; margin: 0 0 16px 0; }
+.step {
+  display: flex;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+.stepnum {
+  width: 26px; height: 26px; border-radius: 50%;
+  background: #2c1710; color: #fff;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 12pt; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.step p { font-size: 11pt; line-height: 1.5; margin: 0; }
+.notebox {
+  border: 1pt solid #e08a2e;
+  background: #fdf3e6;
+  padding: 12px 16px;
+  margin-top: auto;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 9.5pt;
+  color: #6b4a30;
+  line-height: 1.5;
+}
+
+.prompt {
+  margin-bottom: 13px;
+  padding-bottom: 11px;
+  border-bottom: 0.75pt solid #e9d9c3;
+}
+.prompt:last-child { border-bottom: none; }
+.prompt .pnum {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 8.5pt;
+  font-weight: 700;
+  color: #e08a2e;
+  margin-right: 6px;
+}
+.prompt p {
+  display: inline;
+  font-size: 10.3pt;
+  line-height: 1.55;
+  margin: 0;
+  color: #2c1710;
+}
+.placeholder { color: #b5732a; font-style: italic; }
+
+.footrow {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7.5pt;
+  color: #b0a08e;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 0.75pt solid #e9d9c3;
+}
+</style>
+</head>
+<body>
+
+<div class="cover">
+  <div class="eyebrow">Life &amp; Business Coaching</div>
+  <h1>The Life &amp; Business<br>Coach's AI Prompt Pack</h1>
+  <p class="sub">40 Done-For-You Prompts to<br>Coach Deeper &amp; Grow Your Business</p>
+  <p class="compat">Works with ChatGPT &middot; Claude &middot; Gemini &middot; Any AI Tool</p>
+  <div class="spacer"></div>
+  <div class="footerbar">SESSIONS &nbsp;&middot;&nbsp; CONTENT &nbsp;&middot;&nbsp; CLIENT COMMS &nbsp;&middot;&nbsp; OFFERS</div>
+</div>
+
+<div class="page">
+  <div class="eyebrow2">How To Use This Pack</div>
+  <h2 class="ptitle">Get More From Every Prompt</h2>
+  <p class="psub">Four categories. 10 prompts each. Copy, customize, paste, go.</p>
+  <hr class="rule">
+
+  <div class="step">
+    <div class="stepnum">1</div>
+    <p>Pick a prompt that matches what you're working on this week &mdash; a session, a post, a follow-up email, a new offer.</p>
+  </div>
+  <div class="step">
+    <div class="stepnum">2</div>
+    <p>Replace anything in <span class="placeholder">[brackets]</span> with your specifics &mdash; your niche, your client's situation, your price point. The more specific you are, the better the output.</p>
+  </div>
+  <div class="step">
+    <div class="stepnum">3</div>
+    <p>Paste it into ChatGPT, Claude, Gemini, or whatever AI tool you use. No special access or plugins needed.</p>
+  </div>
+  <div class="step">
+    <div class="stepnum">4</div>
+    <p>Treat the output as a first draft, not a final answer. You know your clients and your voice &mdash; edit until it sounds like you.</p>
+  </div>
+  <div class="step">
+    <div class="stepnum">5</div>
+    <p>Keep a running note of which prompts actually save you time. Those are the ones worth turning into your own templates.</p>
+  </div>
+
+  <div class="notebox">
+    <strong>A note on client information:</strong> Never paste identifying client details into a public AI tool. Anonymize names, companies, and specifics before you paste anything in.
+  </div>
+</div>
+
+<div class="page">
+  <div class="eyebrow2">Category 1 of 4</div>
+  <h2 class="ptitle">Sessions</h2>
+  <p class="psub">Prep, facilitate, and follow up on coaching calls.</p>
+  <hr class="rule">
+
+  <div class="prompt"><span class="pnum">01</span><p>Create a discovery call script that uncovers a prospective client's biggest obstacle in <span class="placeholder">[specific area]</span> within the first 10 minutes.</p></div>
+  <div class="prompt"><span class="pnum">02</span><p>Draft 5 powerful questions to open a coaching session with a client who is feeling stuck on <span class="placeholder">[goal]</span>.</p></div>
+  <div class="prompt"><span class="pnum">03</span><p>Write a session recap template I can send after each call, summarizing key insights and next action steps.</p></div>
+  <div class="prompt"><span class="pnum">04</span><p>Generate 3 reframes I can offer a client who says, <span class="placeholder">"[limiting belief]"</span>.</p></div>
+  <div class="prompt"><span class="pnum">05</span><p>Build a simple accountability check-in script for returning clients to review progress since our last session.</p></div>
+  <div class="prompt"><span class="pnum">06</span><p>Create a goal-setting worksheet outline for a new client's first session, covering their 90-day vision.</p></div>
+  <div class="prompt"><span class="pnum">07</span><p>Draft an empathetic way to challenge a client who keeps missing their commitments, without shaming them.</p></div>
+  <div class="prompt"><span class="pnum">08</span><p>Write 5 closing questions to end a session that leave the client feeling clear and motivated.</p></div>
+  <div class="prompt"><span class="pnum">09</span><p>Generate a values-clarification exercise script I can walk a client through live.</p></div>
+  <div class="prompt"><span class="pnum">10</span><p>Help me spot patterns across a client's last 5 sessions from these notes: <span class="placeholder">[paste notes]</span>.</p></div>
+
+  <div class="footrow"><span>THE LIFE &amp; BUSINESS COACH'S AI PROMPT PACK</span><span>SESSIONS</span></div>
+</div>
+
+<div class="page">
+  <div class="eyebrow2">Category 2 of 4</div>
+  <h2 class="ptitle">Content</h2>
+  <p class="psub">Marketing, social posts, and thought leadership.</p>
+  <hr class="rule">
+
+  <div class="prompt"><span class="pnum">11</span><p>Write 5 LinkedIn post hooks about <span class="placeholder">[coaching topic]</span> that stop the scroll for <span class="placeholder">[target audience]</span>.</p></div>
+  <div class="prompt"><span class="pnum">12</span><p>Turn this client win into a compelling, anonymized case-study post: <span class="placeholder">[paste story]</span>.</p></div>
+  <div class="prompt"><span class="pnum">13</span><p>Draft a week of Instagram captions built around the theme of <span class="placeholder">[theme]</span>, each ending with a question to boost comments.</p></div>
+  <div class="prompt"><span class="pnum">14</span><p>Write a short email newsletter teaching one coaching concept about <span class="placeholder">[topic]</span> in under 300 words.</p></div>
+  <div class="prompt"><span class="pnum">15</span><p>Generate 10 content ideas for coaches who work with <span class="placeholder">[niche audience]</span>.</p></div>
+  <div class="prompt"><span class="pnum">16</span><p>Turn this client testimonial into 3 different social posts, each highlighting a different angle: <span class="placeholder">[paste testimonial]</span>.</p></div>
+  <div class="prompt"><span class="pnum">17</span><p>Write a script for a 60-second video explaining why <span class="placeholder">[common misconception]</span> is holding people back.</p></div>
+  <div class="prompt"><span class="pnum">18</span><p>Draft a "myth vs. reality" post about <span class="placeholder">[topic]</span> in my coaching niche.</p></div>
+  <div class="prompt"><span class="pnum">19</span><p>Create a lead magnet outline (checklist or mini-guide) on <span class="placeholder">[topic]</span> that would attract <span class="placeholder">[target client]</span>.</p></div>
+  <div class="prompt"><span class="pnum">20</span><p>Write 3 different captions for the same photo or reel about my practice, testing three tones: bold, warm, and humorous.</p></div>
+
+  <div class="footrow"><span>THE LIFE &amp; BUSINESS COACH'S AI PROMPT PACK</span><span>CONTENT</span></div>
+</div>
+
+<div class="page">
+  <div class="eyebrow2">Category 3 of 4</div>
+  <h2 class="ptitle">Client Comms</h2>
+  <p class="psub">Onboarding, emails, and the awkward messages.</p>
+  <hr class="rule">
+
+  <div class="prompt"><span class="pnum">21</span><p>Write a warm welcome email for a new coaching client that sets expectations for our work together.</p></div>
+  <div class="prompt"><span class="pnum">22</span><p>Draft a re-engagement email for a past client I haven't heard from in <span class="placeholder">[timeframe]</span>.</p></div>
+  <div class="prompt"><span class="pnum">23</span><p>Create a template to gently follow up with a prospect who went quiet after a discovery call.</p></div>
+  <div class="prompt"><span class="pnum">24</span><p>Write a message asking a happy client for a testimonial, making it easy and low-pressure for them.</p></div>
+  <div class="prompt"><span class="pnum">25</span><p>Draft an email explaining a price increase to existing clients without losing their trust.</p></div>
+  <div class="prompt"><span class="pnum">26</span><p>Create a boundary-setting message for a client who frequently reschedules last-minute.</p></div>
+  <div class="prompt"><span class="pnum">27</span><p>Write an end-of-package email that reviews their progress and offers next steps &mdash; renewal, a new package, or a referral ask.</p></div>
+  <div class="prompt"><span class="pnum">28</span><p>Draft a check-in text or email for a client between sessions who seemed to be struggling on our last call.</p></div>
+  <div class="prompt"><span class="pnum">29</span><p>Create an FAQ response template for the questions prospects ask most before booking: <span class="placeholder">[list questions]</span>.</p></div>
+  <div class="prompt"><span class="pnum">30</span><p>Write a graceful way to end a coaching relationship with a client who isn't a good fit anymore.</p></div>
+
+  <div class="footrow"><span>THE LIFE &amp; BUSINESS COACH'S AI PROMPT PACK</span><span>CLIENT COMMS</span></div>
+</div>
+
+<div class="page">
+  <div class="eyebrow2">Category 4 of 4</div>
+  <h2 class="ptitle">Offers</h2>
+  <p class="psub">Package, price, and sell what you do.</p>
+  <hr class="rule">
+
+  <div class="prompt"><span class="pnum">31</span><p>Help me name and structure a signature coaching package around this transformation: <span class="placeholder">[describe transformation]</span>.</p></div>
+  <div class="prompt"><span class="pnum">32</span><p>Write sales page copy for a <span class="placeholder">[X]</span>-week coaching program targeting <span class="placeholder">[audience]</span> struggling with <span class="placeholder">[problem]</span>.</p></div>
+  <div class="prompt"><span class="pnum">33</span><p>Draft 3 different price-anchoring explanations for why my package costs <span class="placeholder">[price]</span>.</p></div>
+  <div class="prompt"><span class="pnum">34</span><p>Create an outline for a low-ticket offer (<span class="placeholder">[price]</span>) that could funnel into my full coaching package.</p></div>
+  <div class="prompt"><span class="pnum">35</span><p>Write an objection-handling script for: "I can't afford it right now."</p></div>
+  <div class="prompt"><span class="pnum">36</span><p>Draft a limited-time bonus offer to encourage prospects to enroll by a deadline, without sounding pushy.</p></div>
+  <div class="prompt"><span class="pnum">37</span><p>Create 3 taglines that capture the core promise of my coaching offer.</p></div>
+  <div class="prompt"><span class="pnum">38</span><p>Write a comparison description: what's different about working with me vs. <span class="placeholder">[generic alternative, e.g. books or free content]</span>.</p></div>
+  <div class="prompt"><span class="pnum">39</span><p>Draft an upsell message for existing clients to add a VIP or intensive add-on session.</p></div>
+  <div class="prompt"><span class="pnum">40</span><p>Help me turn my group coaching program into a tiered offer &mdash; self-study, group, and 1:1 &mdash; with clear differences at each tier.</p></div>
+
+  <div class="footrow"><span>THE LIFE &amp; BUSINESS COACH'S AI PROMPT PACK</span><span>OFFERS</span></div>
+</div>
+
+</body>
+</html>
