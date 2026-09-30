@@ -187,6 +187,42 @@ h1.ptitle {
   color: #333;
   margin: 0;
 }
+.mini-grid {
+  display: flex;
+  gap: 7px;
+  margin-top: 4px;
+}
+.mini-card {
+  flex: 1;
+  border: 1pt dashed #9a9a9a;
+  padding: 6px 7px;
+  display: flex;
+  flex-direction: column;
+}
+.mini-title-line {
+  border-bottom: 0.9pt dotted #9a9a9a;
+  height: 11px;
+  width: 85%;
+  margin-bottom: 6px;
+}
+.mini-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.mini-checkbox {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border: 1.1pt solid #b5b5b5;
+  margin-right: 5px;
+  flex-shrink: 0;
+}
+.mini-line {
+  flex: 1;
+  border-bottom: 0.75pt dotted #b5b5b5;
+  height: 10px;
+}
 </style>
 </head>
 <body>
@@ -241,6 +277,30 @@ h1.ptitle {
       <div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div><div class="mind-box"></div>
     </div>
     <p class="mini-note">Check or color one in, in order, as the day goes.</p>
+
+    <div class="sechead">Blank Blocks</div>
+    <div class="mini-grid">
+      <div class="mini-card">
+        <div class="mini-title-line"></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+      </div>
+      <div class="mini-card">
+        <div class="mini-title-line"></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+      </div>
+      <div class="mini-card">
+        <div class="mini-title-line"></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+      </div>
+      <div class="mini-card">
+        <div class="mini-title-line"></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+        <div class="mini-row"><span class="mini-checkbox"></span><div class="mini-line"></div></div>
+      </div>
+    </div>
 
     <div class="foot">TIME MANAGEMENT SYSTEM &middot; FOLDABLE ORGANIZER</div>
   </div>
