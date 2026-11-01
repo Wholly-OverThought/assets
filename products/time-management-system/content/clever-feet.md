@@ -8,7 +8,7 @@ When retiring a quote from a page, move it down to "Retired" rather than deletin
 
 | Page | Quote | Attribution |
 |---|---|---|
-| Instructions | "You do not rise to the level of your goals. You fall to the level of your systems." | On Building Small Machines That Work |
+| Instructions | "Winning doesn't always look like winning." | On Small Wins |
 | Overview | "A system is just a decision you don't have to make twice." | On Structure |
 | Blocks | "The box is small on purpose. Small enough to actually finish." | On Micro Routines |
 | Blocks — Relationships | "You didn't lose touch. You lost the block." | On Relationships |
@@ -33,3 +33,7 @@ When retiring a quote from a page, move it down to "Retired" rather than deletin
 ## Retired
 
 - "Nobody drifts away on purpose. They just never got a block." — On Relationships (replaced 2026-09-16 — user didn't like it)
+- "You do not rise to the level of your goals. You fall to the level of your systems." — On Building Small Machines That Work (replaced 2026-11-01 — user is working through a full quote pass, more swaps coming)
+
+## Note (2026-11-01)
+User is actively revising all the footer quotes — this is the first of a batch, more will come one at a time or in a list. Don't treat "Currently in use" as settled; expect ongoing replacement.
