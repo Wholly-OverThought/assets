@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 1600px;
+  height: 1600px;
+  font-family: "Georgia", "Iowan Old Style", serif;
+  color: #1a1a1a;
+  background: #ffffff;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+  overflow: hidden;
+}
+.canvas {
+  width: 1600px;
+  height: 1600px;
+  padding: 120px 140px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.eyebrow {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #6b6b6b;
+  margin: 0 0 18px 0;
+  text-align: center;
+}
+h1.title {
+  font-family: "Georgia", serif;
+  font-size: 92px;
+  font-weight: 700;
+  margin: 0;
+  color: #16161a;
+  letter-spacing: -0.01em;
+  text-align: center;
+  line-height: 1.05;
+}
+.subtitle {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 27px;
+  color: #4a4a4a;
+  margin: 22px 0 0 0;
+  font-style: italic;
+  text-align: center;
+}
+.rule {
+  border: none;
+  border-top: 2.5pt solid #1a1a1a;
+  margin: 48px auto 0 auto;
+  width: 160px;
+}
+.cards {
+  position: relative;
+  flex: 1;
+  margin-top: 56px;
+}
+.card {
+  position: absolute;
+  width: 320px;
+  border: 1.5pt dashed #9a9a9a;
+  background: #ffffff;
+  padding: 20px 22px;
+}
+.card .line {
+  border-bottom: 0.9pt dotted #9a9a9a;
+  height: 16px;
+  width: 70%;
+  margin-bottom: 12px;
+}
+.card .row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.card .box {
+  width: 15px;
+  height: 15px;
+  border: 1.4pt solid #b5b5b5;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+.card .slot {
+  flex: 1;
+  border-bottom: 0.9pt dotted #b5b5b5;
+  height: 14px;
+}
+.card.focal {
+  border: 1.5pt solid #16161a;
+  background: #f7f6f3;
+}
+.card.focal .box { border-color: #16161a; }
+.card.focal .filled {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-size: 18px;
+  color: #16161a;
+  flex: 1;
+}
+.quote-block {
+  text-align: center;
+  padding-top: 32px;
+  border-top: 0.9pt solid #c9c9c9;
+}
+.quote-text {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-size: 34px;
+  color: #16161a;
+  margin: 0 0 10px 0;
+}
+.quote-attr {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 19px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6b6b6b;
+  margin: 0 0 16px 0;
+}
+.specs {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #9a9a9a;
+}
+</style>
+</head>
+<body>
+<div class="canvas">
+
+  <div class="eyebrow">Printable Daily System &middot; Instant Download</div>
+  <h1 class="title">Time Management<br>System</h1>
+  <p class="subtitle">A flexible, guilt-free daily planner built on movable Blocks</p>
+  <hr class="rule">
+
+  <div class="cards">
+    <div class="card" style="top: 10px; left: 0px; transform: rotate(-4deg);">
+      <div class="line"></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+    </div>
+    <div class="card" style="top: 60px; right: 0px; transform: rotate(3deg);">
+      <div class="line"></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+    </div>
+    <div class="card focal" style="top: 190px; left: 50%; transform: translateX(-50%) rotate(-1deg); width: 460px;">
+      <div class="row"><span class="box"></span><span class="filled">Move it. Don't skip it.</span></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+    </div>
+    <div class="card" style="top: 410px; left: 90px; transform: rotate(3deg);">
+      <div class="line"></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+    </div>
+    <div class="card" style="top: 430px; right: 70px; transform: rotate(-3deg);">
+      <div class="line"></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+      <div class="row"><span class="box"></span><div class="slot"></div></div>
+    </div>
+  </div>
+
+  <div class="quote-block">
+    <p class="quote-text">&ldquo;A moved Block is not a missed Block.&rdquo;</p>
+    <p class="quote-attr">On Flexibility</p>
+    <p class="specs">11 Pages &middot; PDF &middot; Print At Home</p>
+  </div>
+
+</div>
+</body>
+</html>
