@@ -4,9 +4,11 @@ Draft. Nothing here is locked — copy, price, and even the structure below (one
 
 One deliberate choice: I left the prison origin story out of the public copy below. That's real and it's a strong hook, but whether/how to use it publicly is yours to decide, not mine to default into sales copy. Say the word and I'll draft a version of the Gumroad/Etsy "about" copy that uses it.
 
-**Open decisions before this goes live anywhere:**
-1. **One listing or two?** Standard and Adaptive are built as co-equal releases, so I drafted them as two separate listings (like two of your AI Prompt Packs) rather than one listing with a "version" dropdown. Flag it if you'd rather bundle them as variants of one listing.
-2. **Price.** Placeholder prices below ($12 Standard / $14 Adaptive) — digital printable systems in this space mostly run $7–$25. Adjust to whatever you want.
+**Decided:**
+1. ~~One listing or two?~~ **Two separate listings** — confirmed. Standard and Adaptive stay distinct products rather than variants of one listing, so nobody buys the wrong one by accident or misses that the other exists.
+2. ~~Price~~ **$12 each**, working number — you're still researching this, so treat it as provisional, not final. Updated both editions below to $12 (Adaptive was drafted at $14; dropped to match).
+
+**Still open:**
 3. **Naming.** I kept "Time Management System" as the product name throughout since that's what the files are called, but "Blocks" is the actually distinctive, ownable piece of this (nobody else owns that word for this). Worth considering something like "The Blocks System" as the real product name, with "A Time Management System" as the subtitle — flag if you want me to redraft around that.
 4. **What's in the actual download.** Copy below assumes each listing delivers one PDF (the merged pack). Say if you want the per-page PDFs included too, or separate print-at-home vs. foldable-only files.
 
@@ -29,7 +31,7 @@ One deliberate choice: I left the prison origin story out of the public copy bel
 
 **Title:** Time Management System — A Flexible, Guilt-Free Daily Planner Built on Movable Blocks
 
-**Price:** $12 *(placeholder)*
+**Price:** $12 *(working number — you're still researching pricing)*
 
 **Summary (1–2 sentences, reused across platforms):**
 A printable daily system built around Blocks — small, movable groups of tasks you rearrange instead of abandon when the day doesn't go to plan. 11 pages, instant PDF download.
@@ -174,7 +176,7 @@ An 11-page printable system built around Blocks — small groups of concrete tas
 
 **Title:** Time Management System — Adaptive Edition — A Capacity-Based Daily Planner for Chronic Pain & Low-Energy Days
 
-**Price:** $14 *(placeholder — priced slightly above Standard given the smaller, more underserved audience and added tiered content; adjust freely)*
+**Price:** $12 *(working number, matched to Standard — you're still researching pricing)*
 
 **Summary:**
 The same Blocks system, rebuilt for bodies that don't run on a fixed schedule. Hygiene, Body, and a new Doctors & Diagnoses Block are tiered by capacity, not calendar — pick whichever tier fits today, and finishing any tier counts as done. 14 pages, instant PDF download.
