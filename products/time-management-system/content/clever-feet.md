@@ -10,8 +10,9 @@ When retiring a quote from a page, move it down to "Retired" rather than deletin
 |---|---|---|
 | Instructions | "Winning doesn't always look like winning." | On Small Wins |
 | Overview | "A system is a decision you already made." | On Structure |
-| Blocks / Blocks — Adaptive | "Morning is a rehearsal. Evening is the review." | On Practice |
-| Blocks — Relationships | "A Block delayed is wisdom displayed." | On Patience |
+| Blocks | "Morning is a rehearsal. Evening is the review." | On Practice |
+| Blocks — Adaptive | "The box is small on purpose. Small enough to actually finish." | On Micro Routines |
+| Blocks — Relationships | "Neurodiversity requires schedule flexibility." | On Neurodiversity |
 | Blocks — Blank / Blank (More) / Blank (Foldable) | "You do your best. God (and Blocks) do the rest." | On Doing Your Part |
 | Daily Organizer | "The plan is pencil. The showing up is permanent." | On the Daily Organizer |
 | Body — Adaptive | "The goal was never the workout. It was proving to yourself you still showed up." | On Adaptive Movement |
@@ -36,12 +37,15 @@ When retiring a quote from a page, move it down to "Retired" rather than deletin
 - "You do not rise to the level of your goals. You fall to the level of your systems." — On Building Small Machines That Work (replaced 2026-11-01 — user is working through a full quote pass, more swaps coming)
 - "A system is just a decision you don't have to make twice." — On Structure (replaced 2026-11-06 with "A system is a decision you already made.")
 - "A blank box isn't empty. It's an invitation." — On Building Your Own (removed everywhere 2026-11-06 per explicit instruction, replaced with "You do your best. God (and Blocks) do the rest.")
-- "The box is small on purpose. Small enough to actually finish." — On Micro Routines (replaced 2026-11-12 on Blocks/Blocks-Adaptive with the bank's Journal quote, repurposed with a new attribution)
 - "You didn't lose touch. You lost the block." — On Relationships (replaced 2026-11-12 with the user's own "A Block delayed is wisdom displayed.")
+- "A Block delayed is wisdom displayed." — On Patience (replaced 2026-11-16 on Blocks — Relationships with "Neurodiversity requires schedule flexibility." — brief life, one revision cycle)
 
 ## Note (2026-11-12)
 User is actively revising all the footer quotes, one or a few at a time. Don't treat "Currently in use" as settled; expect ongoing replacement. Every page in the pack now carries a quote (Daily Organizer didn't have one before — added from the bank). The two single-sheet foldable pages (Daily Organizer — Foldable, Blocks — Blank (Foldable)) use a short one-line mantra in place of a full quote-block, since there's no room for a separate attribution line there.
 
-"Morning is a rehearsal. Evening is the review." was originally banked "For the Journal (AM/PM)" but was explicitly reassigned to Blocks/Blocks-Adaptive with a new attribution ("On Practice") — if the Journal product later wants an AM/PM quote, this one is no longer free; pull a fresh one or write a new one.
+"Morning is a rehearsal. Evening is the review." was originally banked "For the Journal (AM/PM)" but was explicitly reassigned to Blocks with a new attribution ("On Practice") — if the Journal product later wants an AM/PM quote, this one is no longer free; pull a fresh one or write a new one.
 
 Doctors & Diagnoses quote broadened from illness-only to illness/injury per user instruction, since the block also covers injury recovery, not just chronic illness.
+
+## Note (2026-11-16)
+Fixed a duplicate: the 2026-11-12 pass had put "Morning is a rehearsal..." on both Blocks and Blocks — Adaptive. Blocks keeps it; Blocks — Adaptive reverted to its original "The box is small on purpose..." (un-retired). Blocks — Relationships moved on again after one cycle — the user's own "A Block delayed is wisdom displayed" is retired in favor of "Neurodiversity requires schedule flexibility," tying the Relationships page more directly to the neurodivergent-audience framing that's now shaping the Instructions/listing copy too.
