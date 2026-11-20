@@ -2,15 +2,14 @@
 
 Draft. Nothing here is locked — copy, price, and even the structure below (one listing vs. two, naming) are all open for you to edit or redirect. Built from the same voice as `clever-feet.md` (clever, true, a little wry — not motivational-poster language) and from what's actually in the two PDFs as of this draft (Standard = 11 pages, Adaptive = 14 pages).
 
-One deliberate choice: I left the prison origin story out of the public copy below. That's real and it's a strong hook, but whether/how to use it publicly is yours to decide, not mine to default into sales copy. Say the word and I'll draft a version of the Gumroad/Etsy "about" copy that uses it.
-
 **Decided:**
 1. ~~One listing or two?~~ **Two separate listings** — confirmed. Standard and Adaptive stay distinct products rather than variants of one listing, so nobody buys the wrong one by accident or misses that the other exists.
 2. ~~Price~~ **$12 each**, working number — you're still researching this, so treat it as provisional, not final. Updated both editions below to $12 (Adaptive was drafted at $14; dropped to match).
+3. ~~Origin story~~ **Included.** Both editions now carry a "Why I Built This" section (Gumroad in full, Etsy condensed) using the diagnosis-based story — ADHD, autism, complex PTSD, the prison origin, the micro-routines, the dopamine/activation-energy framing. The 1999 incident stays out of all public copy per your call; it's logged privately in the project notes only.
 
 **Still open:**
-3. **Naming.** I kept "Time Management System" as the product name throughout since that's what the files are called, but "Blocks" is the actually distinctive, ownable piece of this (nobody else owns that word for this). Worth considering something like "The Blocks System" as the real product name, with "A Time Management System" as the subtitle — flag if you want me to redraft around that.
-4. **What's in the actual download.** Copy below assumes each listing delivers one PDF (the merged pack). Say if you want the per-page PDFs included too, or separate print-at-home vs. foldable-only files.
+4. **Naming.** I kept "Time Management System" as the product name throughout since that's what the files are called, but "Blocks" is the actually distinctive, ownable piece of this (nobody else owns that word for this). Worth considering something like "The Blocks System" as the real product name, with "A Time Management System" as the subtitle — flag if you want me to redraft around that.
+5. **What's in the actual download.** Copy below assumes each listing delivers one PDF (the merged pack). Say if you want the per-page PDFs included too, or separate print-at-home vs. foldable-only files.
 
 ---
 
@@ -59,6 +58,14 @@ This system is built around a different unit: the **Block** — a small group of
 
 **A moved Block is not a missed Block.**
 
+## Why I Built This
+
+I built the core of this in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD. None of that was diagnosed yet, but grouping small, concrete tasks together is still how I keep my own days from falling apart.
+
+ADHD, for me, isn't a willpower problem. It's closer to a brain that treats anything boring as a threat and won't be reasoned with about it — small Blocks lower the cost of just starting. Normal planners never worked: I'd open a calendar and find two blank months, or write a to-do list I couldn't finish and feel like proof I just couldn't manage my own life.
+
+This system exists to cut that shame, not add to it. If you're neurodivergent, living with ADHD or autism, or you've just never found a planner that didn't turn into another thing to feel bad about — this was built for you first.
+
 ## What's Inside (11 pages)
 
 **Instructions** — exactly how the system works, start to finish, including why small concrete tasks beat vague categories.
@@ -75,7 +82,7 @@ This system is built around a different unit: the **Block** — a small group of
 
 **Daily Organizer — Foldable** + **Blocks — Blank (Foldable)** — print these two double-sided on one sheet, fold once, and carry the pocket version of the whole system.
 
-**Check-In** — a short AM/PM page to open and close the day. (The full guided journal is a separate product — this is the quick version.)
+**Check-In** — a short AM/PM page to open and close the day. (The full guided journal is a separate product, in development — this is the light version.)
 
 ## How It Works
 
@@ -105,6 +112,9 @@ TIME MANAGEMENT SYSTEM
 A Flexible, Guilt-Free Daily Planner Built on Movable Blocks
 
 Most planners assume a perfect day. This one doesn't. It's built around Blocks — small groups of concrete tasks you rearrange instead of abandon when the day goes sideways. A moved Block is not a missed Block.
+
+WHY I BUILT THIS:
+I built the core of this in state prison, with twelve hours a day and nothing in them. Writing tiny lists — brush teeth, shave, shower — was the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD. Normal planners never worked for me; this did, so I built it for anyone else whose brain doesn't run on the standard model either.
 
 THIS PACK INCLUDES (11 PAGES):
 • Instructions — how the whole system works
@@ -137,7 +147,7 @@ PDF delivered immediately after purchase. Print at home on any standard printer.
 
 **lemonsqueezy_description:**
 ```
-An 11-page printable system built around Blocks — small groups of concrete tasks you arrange into your day and move, not abandon, when something interrupts you. Includes the full Blocks reference (pre-filled and blank versions), a Daily Organizer with optional hourly and mindfulness check-ins, a foldable pocket edition you print double-sided, and a short AM/PM Check-In page. A moved Block is not a missed Block. Instant PDF download — print at home today.
+An 11-page printable system built around Blocks — small groups of concrete tasks you arrange into your day and move, not abandon, when something interrupts you. Includes the full Blocks reference (pre-filled and blank versions), a Daily Organizer with optional hourly and mindfulness check-ins, a foldable pocket edition you print double-sided, and a short AM/PM Check-In page. A moved Block is not a missed Block. Instant PDF download — print at home today. Built by someone with ADHD, autism, and complex PTSD who needed exactly this and couldn't find it.
 ```
 
 ## Shopify
@@ -152,6 +162,8 @@ An 11-page printable system built around Blocks — small groups of concrete tas
 ```html
 <p><strong>Most planners assume a perfect day. This one doesn't.</strong></p>
 <p>Built around <strong>Blocks</strong> — small groups of concrete tasks you arrange into your day in whatever order makes sense, and move instead of abandon when life interrupts. A moved Block is not a missed Block.</p>
+<h3>Why I Built This</h3>
+<p>I built the core of this in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. This system exists to cut the shame of not finishing everything, not add to it.</p>
 <h3>What's Inside (11 pages, instant PDF download)</h3>
 <ul>
 <li>Instructions — how the whole system works</li>
@@ -202,6 +214,12 @@ Most productivity systems quietly assume a body that can push through. This one 
 
 **A moved Block is not a missed Block. And on this edition: there is no lesser version of done.**
 
+## Why I Built This
+
+I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. Normal planners never worked for me — a calendar I forget to check, a to-do list I can't finish, just adds shame on top of a hard day.
+
+This Adaptive edition exists because that same problem gets worse, not better, when your body doesn't cooperate either. A system that can't survive one bad hour was never going to survive a flare day. Tiering by capacity and moving Blocks instead of abandoning them are the same idea, applied twice.
+
 ## What's Inside (14 pages)
 
 **Instructions (Adaptive)** — how the system works, written for a body that changes day to day.
@@ -238,6 +256,9 @@ A Capacity-Based Daily Planner for Chronic Pain, Limited Mobility, or a Body Tha
 
 Built on the same movable-Block system as our Standard edition, but Hygiene, Body, and a new Doctors & Diagnoses Block are tiered by capacity, not calendar. Pick whichever tier matches your body today — finishing any tier counts as done. There is no lesser version of done.
 
+WHY I BUILT THIS:
+I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing tiny lists was the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD — and this edition exists because the same flexibility that saved my days matters even more when your body doesn't cooperate either.
+
 THIS PACK INCLUDES (14 PAGES):
 • Instructions & Overview (Adaptive)
 • Blocks (Adaptive) — your task library
@@ -265,6 +286,8 @@ PDF delivered immediately after purchase. Print at home on any standard printer.
 **lemonsqueezy_description:**
 ```
 A 14-page printable system built on the same movable-Block mechanic as our Standard edition, rebuilt for bodies that don't run on a fixed schedule. Hygiene, Body, and a new Doctors & Diagnoses Block are tiered by capacity — flare, moderate, or higher-capacity — and finishing any tier counts as done. Includes the shared Blocks — Relationships and blank Blocks pages, a Daily Organizer with optional check-ins, and a foldable pocket edition you print double-sided. There is no lesser version of done. Instant PDF download.
+
+Built by someone with ADHD, autism, and complex PTSD for whom flexible, shame-free systems were never optional — adapted here for bodies that need the same grace.
 ```
 
 ## Shopify
@@ -279,6 +302,8 @@ A 14-page printable system built on the same movable-Block mechanic as our Stand
 ```html
 <p><strong>Most productivity systems quietly assume a body that can push through. This one doesn't.</strong></p>
 <p>Built on the same Blocks mechanic as the Standard edition, with Hygiene, Body, and a new Doctors & Diagnoses Block rebuilt around <strong>capacity, not calendar</strong>. Pick whichever tier matches your body today — flare, moderate, or higher-capacity. Finishing any tier counts as done.</p>
+<h3>Why I Built This</h3>
+<p>I have ADHD, I'm autistic, and I live with complex PTSD, and the movable-Block system this is built on is still how I keep my own days from falling apart. This Adaptive edition exists because that same need for flexibility only gets more urgent when your body doesn't cooperate either — a system that can't survive one bad hour was never going to survive a flare day.</p>
 <h3>What's Inside (14 pages, instant PDF download)</h3>
 <ul>
 <li>Instructions & Overview (Adaptive)</li>
