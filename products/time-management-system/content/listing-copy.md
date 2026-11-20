@@ -72,7 +72,7 @@ This system exists to cut that shame, not add to it. If you're neurodivergent, l
 
 **Overview** — a one-page map of how all the pages connect.
 
-**Blocks** — your task library, pre-filled with starter Blocks (Hygiene, Body, Power Hour, Set Up Tomorrow, Skip, Home, Finance) you can keep, edit, or delete. The filled-in tasks are examples, not a prescription.
+**Blocks** — your task library, pre-filled with starter Blocks (Hygiene, Body, Power Hour, Prep Tomorrow, Skip, Home, Finance) you can keep, edit, or delete. The filled-in tasks are examples, not a prescription.
 
 **Blocks — Relationships** — a dedicated page for the people in your life: Partner, Kids, Family, Everyone Else, plus custom slots.
 
