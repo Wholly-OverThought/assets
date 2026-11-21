@@ -218,7 +218,7 @@ Most productivity systems quietly assume a body that can push through. This one 
 
 I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. Normal planners never worked for me — a calendar I forget to check, a to-do list I can't finish, just adds shame on top of a hard day.
 
-This Adaptive edition exists because that same problem gets worse, not better, when your body doesn't cooperate either. A system that can't survive one bad hour was never going to survive a flare day. Tiering by capacity and moving Blocks instead of abandoning them are the same idea, applied twice.
+This Adaptive edition exists because that same problem gets worse, not better, when your body doesn't cooperate either. I live with chronic pain from a shoulder replacement that's never fully worked, and it's kept me out of most jobs — without a job's built-in structure, managing time gets harder, not easier. A system that can't survive one bad hour was never going to survive a flare day. Tiering by capacity and moving Blocks instead of abandoning them are the same idea, applied twice.
 
 ## What's Inside (14 pages)
 
@@ -257,7 +257,7 @@ A Capacity-Based Daily Planner for Chronic Pain, Limited Mobility, or a Body Tha
 Built on the same movable-Block system as our Standard edition, but Hygiene, Body, and a new Doctors & Diagnoses Block are tiered by capacity, not calendar. Pick whichever tier matches your body today — finishing any tier counts as done. There is no lesser version of done.
 
 WHY I BUILT THIS:
-I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing tiny lists was the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD — and this edition exists because the same flexibility that saved my days matters even more when your body doesn't cooperate either.
+I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing tiny lists was the only thing that got me through. I have ADHD, I'm autistic, I live with complex PTSD, and I also live with chronic pain from a shoulder replacement that still isn't fully functional. This edition exists because the same flexibility that saved my days matters even more when your body doesn't cooperate either.
 
 THIS PACK INCLUDES (14 PAGES):
 • Instructions & Overview (Adaptive)
@@ -287,7 +287,7 @@ PDF delivered immediately after purchase. Print at home on any standard printer.
 ```
 A 14-page printable system built on the same movable-Block mechanic as our Standard edition, rebuilt for bodies that don't run on a fixed schedule. Hygiene, Body, and a new Doctors & Diagnoses Block are tiered by capacity — flare, moderate, or higher-capacity — and finishing any tier counts as done. Includes the shared Blocks — Relationships and blank Blocks pages, a Daily Organizer with optional check-ins, and a foldable pocket edition you print double-sided. There is no lesser version of done. Instant PDF download.
 
-Built by someone with ADHD, autism, and complex PTSD for whom flexible, shame-free systems were never optional — adapted here for bodies that need the same grace.
+Built by someone with ADHD, autism, complex PTSD, and chronic pain from a non-functional shoulder replacement — flexible, shame-free systems were never optional, and this edition adapts that same approach for bodies that need the same grace.
 ```
 
 ## Shopify
@@ -303,7 +303,7 @@ Built by someone with ADHD, autism, and complex PTSD for whom flexible, shame-fr
 <p><strong>Most productivity systems quietly assume a body that can push through. This one doesn't.</strong></p>
 <p>Built on the same Blocks mechanic as the Standard edition, with Hygiene, Body, and a new Doctors & Diagnoses Block rebuilt around <strong>capacity, not calendar</strong>. Pick whichever tier matches your body today — flare, moderate, or higher-capacity. Finishing any tier counts as done.</p>
 <h3>Why I Built This</h3>
-<p>I have ADHD, I'm autistic, and I live with complex PTSD, and the movable-Block system this is built on is still how I keep my own days from falling apart. This Adaptive edition exists because that same need for flexibility only gets more urgent when your body doesn't cooperate either — a system that can't survive one bad hour was never going to survive a flare day.</p>
+<p>I have ADHD, I'm autistic, I live with complex PTSD, and I also live with chronic pain from a shoulder replacement that's never fully worked. The movable-Block system this is built on is still how I keep my own days from falling apart. This Adaptive edition exists because that same need for flexibility only gets more urgent when your body doesn't cooperate either — a system that can't survive one bad hour was never going to survive a flare day.</p>
 <h3>What's Inside (14 pages, instant PDF download)</h3>
 <ul>
 <li>Instructions & Overview (Adaptive)</li>
