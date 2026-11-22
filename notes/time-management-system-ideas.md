@@ -199,3 +199,19 @@ Also confirmed: the "Where This Came From" sections (Instructions pages + listin
 User confirmed "Fitness" would be a better name than "Body" for that Block, and "Housework" would be better than "Home" — but explicitly said to leave both as-is for now rather than rename them everywhere (card titles, Daily Organizer, Overview, and the Adaptive edition's "Body — Adaptive" page/quotes/manifest entries all would need to follow if this happens — a real cascade, not a one-line edit). User asked to be reminded about this later rather than act now. **Flagging this to surface again when relevant** — don't do the rename without the user bringing it up again or confirming when asked.
 
 The Instructions intro sentence (both editions) was reworded earlier today to "small groups of similar or related tasks" per a different, already-resolved instruction — that edit stands; it's unrelated to this pending Body/Home rename.
+
+## 2026-11-22 — Instructions page being substantially rewritten, origin story first
+
+User is dictating a new, more complete origin story directly into the Instructions page content (not just the listing copy) — reading the current draft and finding gaps/disappointments versus what they'd expected. Explicit structural instruction: the existing "This system is built out of Blocks..." paragraph should move to **after** the new dictated material, not before it — i.e., the page opens with the personal/origin framing first, then gets into the mechanics. Don't reorder yet; wait for the full dictation (in progress, sent across several messages, not finished as of this note).
+
+Corrections applied immediately (not blocked on the rest): "state prison" -> "prison" (drop "state"), and "twelve hours a day" -> "eighteen to twenty-two hours a day" — fixed everywhere both phrases appeared (both Instructions editions' "Where This Came From" callouts, and all five "Why I Built This" mentions across the listing-copy.md platforms).
+
+New facts from this dictation pass, not yet incorporated anywhere (waiting for the rest before touching the page):
+- Positions the system's main purpose explicitly as: for people whose only consistent "routine" is routinely changing it.
+- User has been creating neurodivergent content/learning aids for a while, for himself and as his own work, before this product.
+- Diagnosed with Asperger's, ADD, and CPTSD "all of my adult life" (not framed as a recent realization this time).
+- Shame framing: shame from these conditions often runs someone's life for far longer than they realize; healing from trauma/toxic shame is framed as a matter of survival, not self-improvement.
+- CPTSD reframed more broadly: anyone with childhood trauma (common, to some degree) can have a shame problem from it.
+- New, specific, previously-unmentioned struggle: sleeping at night / keeping any sleep schedule was "an absolutely unscalable mountain." Credits "mercy from God" for being able to start waking every morning; says he's "still working on the variance."
+- New credentials, not mentioned anywhere before: describes himself as "a scientist," "a follower of Christ," and **a certified Peer Support Specialist** (a mental health professional credential) — this is a significant authority/credibility fact for the origin story and possibly the listing copy, not yet used anywhere.
+- Design-reasoning order he describes: started with wanting "a system," then realized he needed flexibility, then realized he also needed accountability (ties to the check-ins).

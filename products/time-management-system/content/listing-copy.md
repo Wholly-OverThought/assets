@@ -60,7 +60,7 @@ This system is built around a different unit: the **Block** — a small group of
 
 ## Why I Built This
 
-I built the core of this in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD. None of that was diagnosed yet, but grouping small, concrete tasks together is still how I keep my own days from falling apart.
+I built the core of this in prison, with eighteen to twenty-two hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD. None of that was diagnosed yet, but grouping small, concrete tasks together is still how I keep my own days from falling apart.
 
 ADHD, for me, isn't a willpower problem. It's closer to a brain that treats anything boring as a threat and won't be reasoned with about it — small Blocks lower the cost of just starting. Normal planners never worked: I'd open a calendar and find two blank months, or write a to-do list I couldn't finish and feel like proof I just couldn't manage my own life.
 
@@ -114,7 +114,7 @@ A Flexible, Guilt-Free Daily Planner Built on Movable Blocks
 Most planners assume a perfect day. This one doesn't. It's built around Blocks — small groups of concrete tasks you rearrange instead of abandon when the day goes sideways. A moved Block is not a missed Block.
 
 WHY I BUILT THIS:
-I built the core of this in state prison, with twelve hours a day and nothing in them. Writing tiny lists — brush teeth, shave, shower — was the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD. Normal planners never worked for me; this did, so I built it for anyone else whose brain doesn't run on the standard model either.
+I built the core of this in prison, with eighteen to twenty-two hours a day and nothing in them. Writing tiny lists — brush teeth, shave, shower — was the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD. Normal planners never worked for me; this did, so I built it for anyone else whose brain doesn't run on the standard model either.
 
 THIS PACK INCLUDES (11 PAGES):
 • Instructions — how the whole system works
@@ -163,7 +163,7 @@ An 11-page printable system built around Blocks — small groups of concrete tas
 <p><strong>Most planners assume a perfect day. This one doesn't.</strong></p>
 <p>Built around <strong>Blocks</strong> — small groups of concrete tasks you arrange into your day in whatever order makes sense, and move instead of abandon when life interrupts. A moved Block is not a missed Block.</p>
 <h3>Why I Built This</h3>
-<p>I built the core of this in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. This system exists to cut the shame of not finishing everything, not add to it.</p>
+<p>I built the core of this in prison, with eighteen to twenty-two hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. This system exists to cut the shame of not finishing everything, not add to it.</p>
 <h3>What's Inside (11 pages, instant PDF download)</h3>
 <ul>
 <li>Instructions — how the whole system works</li>
@@ -216,7 +216,7 @@ Most productivity systems quietly assume a body that can push through. This one 
 
 ## Why I Built This
 
-I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. Normal planners never worked for me — a calendar I forget to check, a to-do list I can't finish, just adds shame on top of a hard day.
+I built the core of this system in prison, with eighteen to twenty-two hours a day and nothing in them. Writing down tiny lists — brush teeth, shave, shower — turned out to be the only thing that got me through. I have ADHD, I'm autistic, and I live with complex PTSD, and grouping small, concrete tasks together is still how I keep my own days from falling apart. Normal planners never worked for me — a calendar I forget to check, a to-do list I can't finish, just adds shame on top of a hard day.
 
 This Adaptive edition exists because that same problem gets worse, not better, when your body doesn't cooperate either. I live with chronic pain from a shoulder replacement that's never fully worked, and it's kept me out of most jobs — without a job's built-in structure, managing time gets harder, not easier. A system that can't survive one bad hour was never going to survive a flare day. Tiering by capacity and moving Blocks instead of abandoning them are the same idea, applied twice.
 
@@ -257,7 +257,7 @@ A Capacity-Based Daily Planner for Chronic Pain, Limited Mobility, or a Body Tha
 Built on the same movable-Block system as our Standard edition, but Hygiene, Body, and a new Doctors & Diagnoses Block are tiered by capacity, not calendar. Pick whichever tier matches your body today — finishing any tier counts as done. There is no lesser version of done.
 
 WHY I BUILT THIS:
-I built the core of this system in state prison, with twelve hours a day and nothing in them. Writing tiny lists was the only thing that got me through. I have ADHD, I'm autistic, I live with complex PTSD, and I also live with chronic pain from a shoulder replacement that still isn't fully functional. This edition exists because the same flexibility that saved my days matters even more when your body doesn't cooperate either.
+I built the core of this system in prison, with eighteen to twenty-two hours a day and nothing in them. Writing tiny lists was the only thing that got me through. I have ADHD, I'm autistic, I live with complex PTSD, and I also live with chronic pain from a shoulder replacement that still isn't fully functional. This edition exists because the same flexibility that saved my days matters even more when your body doesn't cooperate either.
 
 THIS PACK INCLUDES (14 PAGES):
 • Instructions & Overview (Adaptive)
